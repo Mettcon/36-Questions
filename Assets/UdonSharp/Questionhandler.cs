@@ -1,4 +1,5 @@
 ﻿
+using TMPro;
 using UdonSharp;
 using UnityEngine;
 using VRC.SDKBase;
@@ -6,9 +7,11 @@ using VRC.Udon;
 
 public class Questionhandler : UdonSharpBehaviour
 {
-    private string Language = "en";
+    public string Language = "eng";
     private int iterator = 0;
-    
+
+    [SerializeField]
+    private TextMeshPro Screen;
     readonly string[] GermanQuestions =
 {
     "1. Wenn Sie die Wahl hätten, wen würden Sie sich als Gast beim Abendessen wünschen?",
@@ -137,6 +140,22 @@ public class Questionhandler : UdonSharpBehaviour
 
     public void SetQuestion()
     {
-        
+        switch (Language)
+        {
+            case "eng": Screen.text = EnglishQuestions[iterator]; break;
+            case "ger": Screen.text = GermanQuestions[iterator]; break;
+            case "chi": Screen.text = ChineseQuestions[iterator]; break;
+        }
+    }
+
+    public void NextQuestion()
+    {
+        iterator++;
+        SetQuestion();
+    }
+
+    public void Start()
+    {
+        SetQuestion();
     }
 }
