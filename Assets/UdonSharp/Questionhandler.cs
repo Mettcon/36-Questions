@@ -8,10 +8,13 @@ using VRC.Udon;
 public class Questionhandler : UdonSharpBehaviour
 {
     public string Language = "eng";
+    [UdonSynced]
     private int iterator = 0;
 
+    private VRCPlayerApi Player;
     [SerializeField]
     private TextMeshPro Screen;
+
     readonly string[] GermanQuestions =
 {
     "1. Wenn Sie die Wahl hätten, wen würden Sie sich als Gast beim Abendessen wünschen?",
@@ -138,6 +141,7 @@ public class Questionhandler : UdonSharpBehaviour
     "36. 分享一个个人问题，并征求你的伴侣对他或她如何处理这个问题的建议。同时，请你的伴侣向你反映你对你所选择的问题的感觉如何。"
 };
 
+    
     public void SetQuestion()
     {
         switch (Language)
@@ -150,12 +154,20 @@ public class Questionhandler : UdonSharpBehaviour
 
     public void NextQuestion()
     {
+        Networking.SetOwner(Player, gameObject);
         iterator++;
         SetQuestion();
     }
 
     public void Start()
     {
+        Player = Networking.LocalPlayer;
+        SetQuestion();
+    }
+
+    public override void OnDeserialization()
+    {
+        base.OnDeserialization();
         SetQuestion();
     }
 }
