@@ -1,6 +1,218 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1126 &-6274402775705999829
+--- !u!382020655 &-9217679304688542820
+PluginBuildInfo:
+  m_RuntimePlugins:
+  - Unity.Burst.Unsafe
+  - VRC.SDK3.Dynamics.PhysBone
+  - OVRPlugin
+  - YamlDotNet
+  - System.Threading.Tasks.Extensions
+  - VRC.Udon.ClientBindings
+  - openvr_api
+  - portmidi
+  - VRC.Udon.VRCWrapperModules
+  - VRCSDK3
+  - VRC.Udon.VM
+  - SDKBase-Legacy
+  - Serilog
+  - nunit.framework
+  - SemanticVersioning
+  - librsync.net
+  - VRC.Udon.Common
+  - VRC.SDK3.Dynamics.Contact
+  - Collections.Pooled
+  - System.Collections.Immutable
+  - System.Numerics.Vectors
+  - System.Buffers
+  - VRC.Dynamics
+  - VRC.Udon.Wrapper
+  - Serilog.Sinks.File
+  - VRC.Udon.Security
+  - clipper_library
+  - VRC.Collections
+  - VRCSDKBase
+  - System.Runtime.CompilerServices.Unsafe
+  - vrc_image_loader
+  - libvrc_image_loader
+  - Newtonsoft.Json
+  - libopenvr_api
+  - Blake2Sharp
+  - System.Memory
+  - System.Text.Encoding.CodePages
+  - VRCCore-Editor
+  - VRC.Utility
+  - AudioPluginOculusSpatializer
+  m_EditorPlugins:
+  - ICSharpCode.SharpZipLib
+  - VRCSDK3-Editor
+  - Microsoft.CodeAnalysis
+  - VRC.Udon.VRCTypeResolverModules
+  - AppleEventIntegration
+  - liblz4Plastic
+  - Unity.Plastic.Newtonsoft.Json
+  - unityplastic
+  - VRC.Udon.Compiler
+  - System.Reflection.Metadata
+  - Microsoft.CodeAnalysis.CSharp
+  - VRC.Udon.UAssembly
+  - vpm-core-lib
+  - VRC.Udon.Graph
+  - UnityEditor.VR
+  - 0Harmony
+  - VRC.SDK3.Dynamics.PhysBone.Editor
+  - VRCSDKBase-Editor
+  - VRC.SDK3.Dynamics.Contact.Editor
+  - VRC.Udon.VRCGraphModules
+  - log4netPlastic
+  - VRC.Udon.EditorBindings
+  - zlib64Plastic
+  - Unity.Plastic.Antlr3.Runtime
+  - Serilog.Sinks.Unity3D
+  - lz4x64Plastic
+--- !u!641289076 &-5469360119472401430
+AudioBuildInfo:
+  m_IsAudioDisabled: 0
+  m_AudioClipCount: 0
+  m_AudioMixerCount: 0
+--- !u!668709126 &-4275107856858679937
+BuiltAssetBundleInfoSet:
+  bundleInfos:
+  - bundleName: scene-standalonewindows64-36 questions.vrcw
+    bundleArchiveFile: 2
+    packagedFileIndices: 0000000001000000
+  - bundleName: 36 Questions
+    bundleArchiveFile: 5
+    packagedFileIndices: 04000000
+--- !u!1125 &1
+BuildReport:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LastWindowsBuild
+  m_Summary:
+    buildStartTime:
+      serializedVersion: 2
+      ticks: 638370758391385331
+    buildGUID: 00000000000000000000000000000000
+    platformName: Win64
+    platformGroupName: Standalone
+    options: 16
+    assetBundleOptions: 32
+    outputPath: C:/Users/Mettcon/AppData/Local/Temp/DefaultCompany/36 Questions/scene-standalonewindows64-36
+      questions.vrcw
+    crc: 3073776999
+    totalSize: 1779530
+    totalTimeTicks: 160805942
+    totalErrors: 0
+    totalWarnings: 0
+    buildType: 1
+    buildResult: 1
+  m_Files:
+  - path: C:/Users/Mettcon/AppData/Local/VRChatProjects/36 Questions/scene-standalonewindows64-36
+      questions.vrcw/BuildPlayer-36 Questions
+    role: Scene
+    id: 0
+    totalSize: 260780
+  - path: C:/Users/Mettcon/AppData/Local/VRChatProjects/36 Questions/scene-standalonewindows64-36
+      questions.vrcw/BuildPlayer-36 Questions.sharedAssets
+    role: SharedAssets
+    id: 1
+    totalSize: 13896096
+  - path: C:/Users/Mettcon/AppData/Local/VRChatProjects/36 Questions/scene-standalonewindows64-36
+      questions.vrcw
+    role: AssetBundle
+    id: 2
+    totalSize: 1776605
+  - path: C:/Users/Mettcon/AppData/Local/VRChatProjects/36 Questions/scene-standalonewindows64-36
+      questions.vrcw.manifest
+    role: AssetBundleTextManifest
+    id: 3
+    totalSize: 1696
+  - path: C:/Users/Mettcon/AppData/Local/VRChatProjects/36 Questions/36 Questions/CAB-25c93ffae45412888480bc73e10e120c
+    role: ResourcesFile
+    id: 4
+    totalSize: 4312
+  - path: C:/Users/Mettcon/AppData/Local/VRChatProjects/36 Questions/36 Questions
+    role: ManifestAssetBundle
+    id: 5
+    totalSize: 1058
+  - path: C:/Users/Mettcon/AppData/Local/VRChatProjects/36 Questions/36 Questions.manifest
+    role: AssetBundleTextManifest
+    id: 6
+    totalSize: 171
+  m_BuildSteps:
+  - stepName: Build Asset Bundles
+    durationTicks: 160805942
+    depth: 0
+    messages: []
+  - stepName: Calculate asset bundles to be built
+    durationTicks: 31884
+    depth: 1
+    messages: []
+  - stepName: Compile scripts
+    durationTicks: 50431247
+    depth: 1
+    messages: []
+  - stepName: Build player
+    durationTicks: 45238939
+    depth: 1
+    messages: []
+  - stepName: Prepare assets for target platform
+    durationTicks: 1750693
+    depth: 2
+    messages: []
+  - stepName: Building scenes
+    durationTicks: 6305003
+    depth: 2
+    messages: []
+  - stepName: Building scene Assets/Scene/36 Questions.unity
+    durationTicks: 6278281
+    depth: 3
+    messages: []
+  - stepName: Writing asset files
+    durationTicks: 2289682
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - archive:/BuildPlayer-36 Questions/BuildPlayer-36
+      Questions.sharedAssets
+    durationTicks: 2237185
+    depth: 3
+    messages: []
+  - stepName: Creating compressed player package
+    durationTicks: 19806401
+    depth: 2
+    messages: []
+  - stepName: Postprocess built player
+    durationTicks: 47114
+    depth: 2
+    messages: []
+  m_Appendices:
+  - {fileID: -4275107856858679937}
+  - {fileID: 6746292352049417458}
+  - {fileID: -9217679304688542820}
+  - {fileID: -5469360119472401430}
+  - {fileID: 1394055707805091368}
+--- !u!1126 &1394055707805091368
+PackedAssets:
+  m_File: 4
+  m_ShortPath: CAB-25c93ffae45412888480bc73e10e120c
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 142
+    packedSize: 104
+    offset: 4096
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: AssetBundle Object
+  - fileID: 2
+    classID: 290
+    packedSize: 112
+    offset: 4200
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 'Built-in AssetBundleManifest: AssetBundleManifest'
+--- !u!1126 &6746292352049417458
 PackedAssets:
   m_File: 1
   m_ShortPath: BuildPlayer-36 Questions.sharedAssets
@@ -246,210 +458,3 @@ PackedAssets:
     sourceAssetGUID: 8f586378b4e144a9851e7b34d9b748ee
     buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
       SDF.asset
---- !u!382020655 &-4855757303529982734
-PluginBuildInfo:
-  m_RuntimePlugins:
-  - Unity.Burst.Unsafe
-  - VRC.SDK3.Dynamics.PhysBone
-  - OVRPlugin
-  - YamlDotNet
-  - System.Threading.Tasks.Extensions
-  - VRC.Udon.ClientBindings
-  - openvr_api
-  - portmidi
-  - VRC.Udon.VRCWrapperModules
-  - VRCSDK3
-  - VRC.Udon.VM
-  - SDKBase-Legacy
-  - Serilog
-  - nunit.framework
-  - SemanticVersioning
-  - librsync.net
-  - VRC.Udon.Common
-  - VRC.SDK3.Dynamics.Contact
-  - Collections.Pooled
-  - System.Collections.Immutable
-  - System.Numerics.Vectors
-  - System.Buffers
-  - VRC.Dynamics
-  - VRC.Udon.Wrapper
-  - Serilog.Sinks.File
-  - VRC.Udon.Security
-  - clipper_library
-  - VRC.Collections
-  - VRCSDKBase
-  - System.Runtime.CompilerServices.Unsafe
-  - vrc_image_loader
-  - libvrc_image_loader
-  - Newtonsoft.Json
-  - libopenvr_api
-  - Blake2Sharp
-  - System.Memory
-  - System.Text.Encoding.CodePages
-  - VRCCore-Editor
-  - VRC.Utility
-  - AudioPluginOculusSpatializer
-  m_EditorPlugins:
-  - ICSharpCode.SharpZipLib
-  - VRCSDK3-Editor
-  - Microsoft.CodeAnalysis
-  - VRC.Udon.VRCTypeResolverModules
-  - AppleEventIntegration
-  - liblz4Plastic
-  - Unity.Plastic.Newtonsoft.Json
-  - unityplastic
-  - VRC.Udon.Compiler
-  - System.Reflection.Metadata
-  - Microsoft.CodeAnalysis.CSharp
-  - VRC.Udon.UAssembly
-  - vpm-core-lib
-  - VRC.Udon.Graph
-  - UnityEditor.VR
-  - 0Harmony
-  - VRC.SDK3.Dynamics.PhysBone.Editor
-  - VRCSDKBase-Editor
-  - VRC.SDK3.Dynamics.Contact.Editor
-  - VRC.Udon.VRCGraphModules
-  - log4netPlastic
-  - VRC.Udon.EditorBindings
-  - zlib64Plastic
-  - Unity.Plastic.Antlr3.Runtime
-  - Serilog.Sinks.Unity3D
-  - lz4x64Plastic
---- !u!668709126 &-2745189361362248374
-BuiltAssetBundleInfoSet:
-  bundleInfos:
-  - bundleName: scene-standalonewindows64-36 questions.vrcw
-    bundleArchiveFile: 2
-    packagedFileIndices: 0000000001000000
-  - bundleName: 36 Questions
-    bundleArchiveFile: 4
-    packagedFileIndices: 03000000
---- !u!1125 &1
-BuildReport:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: LastWindowsBuild
-  m_Summary:
-    buildStartTime:
-      serializedVersion: 2
-      ticks: 638370752887759035
-    buildGUID: 00000000000000000000000000000000
-    platformName: Win64
-    platformGroupName: Standalone
-    options: 16
-    assetBundleOptions: 32
-    outputPath: C:/Users/Mettcon/AppData/Local/Temp/DefaultCompany/36 Questions/scene-standalonewindows64-36
-      questions.vrcw
-    crc: 3927304810
-    totalSize: 1777847
-    totalTimeTicks: 162841272
-    totalErrors: 0
-    totalWarnings: 0
-    buildType: 1
-    buildResult: 1
-  m_Files:
-  - path: C:/Users/Mettcon/AppData/Local/VRChatProjects/36 Questions/scene-standalonewindows64-36
-      questions.vrcw/BuildPlayer-36 Questions
-    role: Scene
-    id: 0
-    totalSize: 260204
-  - path: C:/Users/Mettcon/AppData/Local/VRChatProjects/36 Questions/scene-standalonewindows64-36
-      questions.vrcw/BuildPlayer-36 Questions.sharedAssets
-    role: SharedAssets
-    id: 1
-    totalSize: 13896096
-  - path: C:/Users/Mettcon/AppData/Local/VRChatProjects/36 Questions/scene-standalonewindows64-36
-      questions.vrcw
-    role: AssetBundle
-    id: 2
-    totalSize: 1776620
-  - path: C:/Users/Mettcon/AppData/Local/VRChatProjects/36 Questions/36 Questions/CAB-25c93ffae45412888480bc73e10e120c
-    role: ResourcesFile
-    id: 3
-    totalSize: 4312
-  - path: C:/Users/Mettcon/AppData/Local/VRChatProjects/36 Questions/36 Questions
-    role: ManifestAssetBundle
-    id: 4
-    totalSize: 1056
-  - path: C:/Users/Mettcon/AppData/Local/VRChatProjects/36 Questions/36 Questions.manifest
-    role: AssetBundleTextManifest
-    id: 5
-    totalSize: 171
-  m_BuildSteps:
-  - stepName: Build Asset Bundles
-    durationTicks: 162841272
-    depth: 0
-    messages: []
-  - stepName: Calculate asset bundles to be built
-    durationTicks: 22434
-    depth: 1
-    messages: []
-  - stepName: Compile scripts
-    durationTicks: 51092232
-    depth: 1
-    messages: []
-  - stepName: Build player
-    durationTicks: 46452421
-    depth: 1
-    messages: []
-  - stepName: Prepare assets for target platform
-    durationTicks: 1807266
-    depth: 2
-    messages: []
-  - stepName: Building scenes
-    durationTicks: 6645001
-    depth: 2
-    messages: []
-  - stepName: Building scene Assets/Scene/36 Questions.unity
-    durationTicks: 6618967
-    depth: 3
-    messages: []
-  - stepName: Writing asset files
-    durationTicks: 2288023
-    depth: 2
-    messages: []
-  - stepName: Packaging assets - archive:/BuildPlayer-36 Questions/BuildPlayer-36
-      Questions.sharedAssets
-    durationTicks: 2251269
-    depth: 3
-    messages: []
-  - stepName: Creating compressed player package
-    durationTicks: 21203007
-    depth: 2
-    messages: []
-  - stepName: Postprocess built player
-    durationTicks: 69120
-    depth: 2
-    messages: []
-  m_Appendices:
-  - {fileID: -2745189361362248374}
-  - {fileID: -6274402775705999829}
-  - {fileID: -4855757303529982734}
-  - {fileID: 1316425689534188923}
-  - {fileID: 8056975059128212888}
---- !u!641289076 &1316425689534188923
-AudioBuildInfo:
-  m_IsAudioDisabled: 0
-  m_AudioClipCount: 0
-  m_AudioMixerCount: 0
---- !u!1126 &8056975059128212888
-PackedAssets:
-  m_File: 3
-  m_ShortPath: CAB-25c93ffae45412888480bc73e10e120c
-  m_Overhead: 4096
-  m_Contents:
-  - fileID: 1
-    classID: 142
-    packedSize: 104
-    offset: 4096
-    sourceAssetGUID: 00000000000000000000000000000000
-    buildTimeAssetPath: AssetBundle Object
-  - fileID: 2
-    classID: 290
-    packedSize: 112
-    offset: 4200
-    sourceAssetGUID: 00000000000000000000000000000000
-    buildTimeAssetPath: 'Built-in AssetBundleManifest: AssetBundleManifest'
