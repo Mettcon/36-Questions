@@ -150,19 +150,21 @@ public class Questionhandler : UdonSharpBehaviour
             case "ger": Screen.text = GermanQuestions[iterator]; break;
             case "chi": Screen.text = ChineseQuestions[iterator]; break;
         }
+        RequestSerialization();
     }
 
     public void NextQuestion()
     {
         Networking.SetOwner(Player, gameObject);
         iterator++;
+        if (iterator > GermanQuestions.Length -1 ) { iterator = 0; }
         SetQuestion();
     }
 
     public void Start()
     {
         Player = Networking.LocalPlayer;
-        SetQuestion();
+        SetQuestion();  
     }
 
     public override void OnDeserialization()
