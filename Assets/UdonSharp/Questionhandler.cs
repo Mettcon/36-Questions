@@ -11,7 +11,7 @@ public class Questionhandler : UdonSharpBehaviour
     [UdonSynced]
     private int iterator = 0;
 
-    private VRCPlayerApi Player;
+    private VRCPlayerApi _player;
     [SerializeField]
     private TextMeshPro Screen;
 
@@ -155,15 +155,23 @@ public class Questionhandler : UdonSharpBehaviour
 
     public void NextQuestion()
     {
-        Networking.SetOwner(Player, gameObject);
+        Networking.SetOwner(_player, gameObject);
         iterator++;
-        if (iterator > GermanQuestions.Length -1 ) { iterator = 0; }
+        if (iterator > GermanQuestions.Length - 1 ) { iterator = 0; }
+        SetQuestion();
+    }
+
+    public void LastQuestion()
+    {
+        Networking.SetOwner(_player, gameObject);
+        iterator--;
+        if (iterator < 0) { iterator = GermanQuestions.Length - 1; }
         SetQuestion();
     }
 
     public void Start()
     {
-        Player = Networking.LocalPlayer;
+        _player = Networking.LocalPlayer;
         SetQuestion();  
     }
 
@@ -172,4 +180,6 @@ public class Questionhandler : UdonSharpBehaviour
         base.OnDeserialization();
         SetQuestion();
     }
+
+
 }
