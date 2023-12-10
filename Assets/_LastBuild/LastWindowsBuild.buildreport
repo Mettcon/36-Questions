@@ -1,32 +1,82 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1126 &-5378185949781307680
-PackedAssets:
-  m_File: 3
-  m_ShortPath: CAB-25c93ffae45412888480bc73e10e120c
-  m_Overhead: 4096
-  m_Contents:
-  - fileID: 1
-    classID: 142
-    packedSize: 104
-    offset: 4096
-    sourceAssetGUID: 00000000000000000000000000000000
-    buildTimeAssetPath: AssetBundle Object
-  - fileID: 2
-    classID: 290
-    packedSize: 112
-    offset: 4200
-    sourceAssetGUID: 00000000000000000000000000000000
-    buildTimeAssetPath: 'Built-in AssetBundleManifest: AssetBundleManifest'
---- !u!668709126 &-4800342989927474540
-BuiltAssetBundleInfoSet:
-  bundleInfos:
-  - bundleName: scene-standalonewindows64-36 questions.vrcw
-    bundleArchiveFile: 2
-    packagedFileIndices: 0000000001000000
-  - bundleName: 36 Questions
-    bundleArchiveFile: 4
-    packagedFileIndices: 03000000
+--- !u!382020655 &-8553133069214113266
+PluginBuildInfo:
+  m_RuntimePlugins:
+  - VRC.Udon.VM
+  - VRC.SDK3.Dynamics.PhysBone
+  - VRC.Udon.Security
+  - libvrc_image_loader
+  - YamlDotNet
+  - VRCSDK3
+  - nunit.framework
+  - VRCCore-Editor
+  - Serilog.Sinks.File
+  - VRC.SDK3.Dynamics.Contact
+  - System.Collections.Immutable
+  - OculusXRPlugin
+  - VRC.Udon.Wrapper
+  - vrc_image_loader
+  - Unity.Burst.Unsafe
+  - SemanticVersioning
+  - librsync.net
+  - OVRPlugin
+  - System.Runtime.CompilerServices.Unsafe
+  - Newtonsoft.Json
+  - Unity.Collections.LowLevel.ILSupport
+  - VRC.Udon.Common
+  - SDKBase-Legacy
+  - VRC.Udon.VRCWrapperModules
+  - VRC.Dynamics
+  - VRCSDKBase
+  - VRC.Utility
+  - portmidi
+  - VRC.Udon.ClientBindings
+  - Blake2Sharp
+  - System.Text.Encoding.CodePages
+  - Serilog
+  - Collections.Pooled
+  - AudioPluginOculusSpatializer
+  m_EditorPlugins:
+  - VRC.Udon.VRCGraphModules
+  - VRC.Udon.EditorBindings
+  - 0Harmony
+  - VRC.SDK3.Dynamics.Contact.Editor
+  - libvrc_shader_compiler_plugin
+  - Mono.Cecil.Pdb
+  - log4netPlastic
+  - vrc_shader_compiler_plugin
+  - VRCSDKBase-Editor
+  - Unity.Plastic.Newtonsoft.Json
+  - Microsoft.CodeAnalysis.CSharp
+  - VRC.Udon.VRCTypeResolverModules
+  - Unity.Plastic.Antlr3.Runtime
+  - ICSharpCode.SharpZipLib
+  - zlib64Plastic
+  - AppleEventIntegration
+  - Mono.Cecil
+  - VRC.Udon.Graph
+  - Unity.Burst.Cecil.Pdb
+  - Mono.Cecil.Rocks
+  - Microsoft.CodeAnalysis
+  - VRC.Udon.Compiler
+  - System.Reflection.Metadata
+  - VRCSDK3-Editor
+  - Mono.Cecil.Mdb
+  - unityplastic
+  - Serilog.Sinks.Unity3D
+  - Unity.Burst.Cecil.Mdb
+  - liblz4Plastic
+  - VRC.SDK3.Dynamics.PhysBone.Editor
+  - Unity.Burst.Cecil
+  - Unity.Burst.Cecil.Rocks
+  - lz4x64Plastic
+  - vpm-core-lib
+  - VRC.Udon.UAssembly
+--- !u!1521398425 &-4068529584492343773
+VideoBuildInfo:
+  m_VideoClipCount: 0
+  m_IsVideoModuleDisabled: 0
 --- !u!1125 &1
 BuildReport:
   m_ObjectHideFlags: 0
@@ -37,536 +87,574 @@ BuildReport:
   m_Summary:
     buildStartTime:
       serializedVersion: 2
-      ticks: 638372402225897643
+      ticks: 638377912530595107
     buildGUID: 00000000000000000000000000000000
     platformName: Win64
     platformGroupName: Standalone
-    options: 16
+    subtarget: 0
+    options: 0
     assetBundleOptions: 32
-    outputPath: C:/Users/Mettcon/AppData/Local/Temp/DefaultCompany/36 Questions/scene-standalonewindows64-36
-      questions.vrcw
-    crc: 3434472568
-    totalSize: 1794419
-    totalTimeTicks: 294768173
+    outputPath: C:/Users/Mettcon/AppData/Local/Temp/DefaultCompany/36 Questions
+    crc: 3931973801
+    totalSize: 1787886
+    totalTimeTicks: 315350264
     totalErrors: 0
-    totalWarnings: 0
-    buildType: 1
+    totalWarnings: 7
+    buildType: 2
     buildResult: 1
   m_Files:
   - path: C:/Users/Mettcon/AppData/Local/VRChatProjects/36 Questions/scene-standalonewindows64-36
       questions.vrcw/BuildPlayer-36 Questions
     role: Scene
     id: 0
-    totalSize: 300228
+    totalSize: 318364
   - path: C:/Users/Mettcon/AppData/Local/VRChatProjects/36 Questions/scene-standalonewindows64-36
       questions.vrcw/BuildPlayer-36 Questions.sharedAssets
     role: SharedAssets
     id: 1
-    totalSize: 13983512
+    totalSize: 13719132
   - path: C:/Users/Mettcon/AppData/Local/VRChatProjects/36 Questions/scene-standalonewindows64-36
       questions.vrcw
     role: AssetBundle
     id: 2
-    totalSize: 1793191
+    totalSize: 1783218
+  - path: C:/Users/Mettcon/AppData/Local/VRChatProjects/36 Questions/scene-standalonewindows64-36
+      questions.vrcw.manifest
+    role: AssetBundleTextManifest
+    id: 3
+    totalSize: 3442
   - path: C:/Users/Mettcon/AppData/Local/VRChatProjects/36 Questions/36 Questions/CAB-25c93ffae45412888480bc73e10e120c
     role: ResourcesFile
-    id: 3
-    totalSize: 4312
+    id: 4
+    totalSize: 4248
   - path: C:/Users/Mettcon/AppData/Local/VRChatProjects/36 Questions/36 Questions
     role: ManifestAssetBundle
-    id: 4
-    totalSize: 1057
+    id: 5
+    totalSize: 1055
   - path: C:/Users/Mettcon/AppData/Local/VRChatProjects/36 Questions/36 Questions.manifest
     role: AssetBundleTextManifest
-    id: 5
+    id: 6
     totalSize: 171
   m_BuildSteps:
   - stepName: Build Asset Bundles
-    durationTicks: 294768173
+    durationTicks: 315350264
     depth: 0
     messages: []
   - stepName: Calculate asset bundles to be built
-    durationTicks: 26454
+    durationTicks: 2142883
+    depth: 1
+    messages: []
+  - stepName: Prebuild Cleanup and Recompile
+    durationTicks: 201750994
     depth: 1
     messages: []
   - stepName: Compile scripts
-    durationTicks: 95306804
-    depth: 1
-    messages: []
-  - stepName: Build player
-    durationTicks: 86276401
-    depth: 1
-    messages: []
-  - stepName: Prepare assets for target platform
-    durationTicks: 1585190
+    durationTicks: 201560304
     depth: 2
     messages: []
-  - stepName: Building scenes
-    durationTicks: 28514388
+  - stepName: Generate and validate platform script types
+    durationTicks: 117335
     depth: 2
     messages: []
-  - stepName: Building scene Assets/Scene/36 Questions.unity
-    durationTicks: 28489285
+  - stepName: Build Scene AssetBundle(s)
+    durationTicks: 70510298
+    depth: 1
+    messages: []
+  - stepName: 'Build bundle: scene-standalonewindows64-36 questions.vrcw'
+    durationTicks: 68967900
+    depth: 2
+    messages: []
+  - stepName: Verify Build setup
+    durationTicks: 395751
     depth: 3
     messages: []
+  - stepName: Prepare assets for target platform
+    durationTicks: 434519
+    depth: 3
+    messages: []
+  - stepName: Prepare splash screen
+    durationTicks: 520675
+    depth: 3
+    messages:
+    - type: 3
+      content: Including Unity Splash Screen logo because 'Show Unity Logo' is enabled.
+  - stepName: Building scenes
+    durationTicks: 31742661
+    depth: 3
+    messages: []
+  - stepName: Building scene Assets/Scene/36 Questions.unity
+    durationTicks: 31741959
+    depth: 4
+    messages:
+    - type: 2
+      content: Please remove the CanvasRenderer component from the [Text (TMP)] GameObject
+        as this component is no longer necessary.
+    - type: 2
+      content: Script attached to 'Last_Question' in scene 'Assets/Scene/36 Questions.unity'
+        is missing or no valid script is attached.
+    - type: 2
+      content: Script attached to 'Set_Chinese' in scene 'Assets/Scene/36 Questions.unity'
+        is missing or no valid script is attached.
+    - type: 2
+      content: Script attached to 'Next_Question' in scene 'Assets/Scene/36 Questions.unity'
+        is missing or no valid script is attached.
+    - type: 2
+      content: Script attached to 'Set_English' in scene 'Assets/Scene/36 Questions.unity'
+        is missing or no valid script is attached.
+    - type: 2
+      content: Script attached to 'Set_German' in scene 'Assets/Scene/36 Questions.unity'
+        is missing or no valid script is attached.
+    - type: 2
+      content: Script attached to 'Questionhandler' in scene 'Assets/Scene/36 Questions.unity'
+        is missing or no valid script is attached.
   - stepName: Writing asset files
-    durationTicks: 20741298
-    depth: 2
+    durationTicks: 12415544
+    depth: 3
     messages: []
   - stepName: Packaging assets - archive:/BuildPlayer-36 Questions/BuildPlayer-36
       Questions.sharedAssets
-    durationTicks: 20696260
-    depth: 3
+    durationTicks: 12370088
+    depth: 4
     messages: []
   - stepName: Creating compressed player package
-    durationTicks: 19526988
-    depth: 2
+    durationTicks: 18433500
+    depth: 3
+    messages: []
+  - stepName: Write data build dirty tracking information
+    durationTicks: 191164
+    depth: 3
     messages: []
   - stepName: Postprocess built player
-    durationTicks: 586663
-    depth: 2
+    durationTicks: 158391
+    depth: 3
     messages: []
   m_Appendices:
-  - {fileID: -4800342989927474540}
-  - {fileID: 1050018626837534666}
-  - {fileID: 5432003044980580361}
-  - {fileID: 2074276341605701156}
-  - {fileID: -5378185949781307680}
---- !u!1126 &1050018626837534666
+  - {fileID: 7181733792518186504}
+  - {fileID: 4565196125554116111}
+  - {fileID: -8553133069214113266}
+  - {fileID: 2036386388056127300}
+  - {fileID: -4068529584492343773}
+  - {fileID: 5111821185640617936}
+--- !u!641289076 &2036386388056127300
+AudioBuildInfo:
+  m_IsAudioDisabled: 0
+  m_AudioClipCount: 0
+  m_AudioMixerCount: 0
+--- !u!1126 &4565196125554116111
 PackedAssets:
-  m_File: 1
   m_ShortPath: BuildPlayer-36 Questions.sharedAssets
-  m_Overhead: 109505
+  m_Overhead: 148109
   m_Contents:
   - fileID: 1
     classID: 150
     packedSize: 85
-    offset: 111032
+    offset: 149664
     sourceAssetGUID: 00000000000000000000000000000000
     buildTimeAssetPath: 
   - fileID: 2
     classID: 142
     packedSize: 160
-    offset: 111120
+    offset: 149752
     sourceAssetGUID: 00000000000000000000000000000000
     buildTimeAssetPath: 
   - fileID: 3
     classID: 21
-    packedSize: 252
-    offset: 111280
+    packedSize: 268
+    offset: 149912
     sourceAssetGUID: 0000000000000000f000000000000000
     buildTimeAssetPath: Resources/unity_builtin_extra
   - fileID: 4
     classID: 21
-    packedSize: 900
-    offset: 111536
+    packedSize: 912
+    offset: 150184
     sourceAssetGUID: fd20e45036ef323459e8286e9c23c02c
     buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Materials/GridFloor_udon.mat
   - fileID: 5
     classID: 21
-    packedSize: 932
-    offset: 112440
+    packedSize: 956
+    offset: 151096
     sourceAssetGUID: 1c987494452b85f4ab4cac3322415907
     buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Materials/SampleAssets_matte.mat
   - fileID: 6
     classID: 21
-    packedSize: 932
-    offset: 113376
+    packedSize: 956
+    offset: 152056
     sourceAssetGUID: 5bec13570cd015140a051a07a3c55af5
     buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Materials/SampleAssets_mixed.mat
   - fileID: 7
     classID: 21
-    packedSize: 136
-    offset: 114312
+    packedSize: 148
+    offset: 153016
     sourceAssetGUID: e3265ab4bf004d28a9537516768c1c75
     buildTimeAssetPath: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
   - fileID: 8
     classID: 21
-    packedSize: 2004
-    offset: 114448
+    packedSize: 2016
+    offset: 153168
     sourceAssetGUID: 2e498d1c8094910479dc3e1b768306a4
     buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
       SDF - Fallback.asset
   - fileID: 9
     classID: 21
-    packedSize: 944
-    offset: 116456
+    packedSize: 956
+    offset: 155184
     sourceAssetGUID: 8f586378b4e144a9851e7b34d9b748ee
     buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
       SDF.asset
   - fileID: 10
     classID: 28
-    packedSize: 5568
-    offset: 117400
+    packedSize: 5584
+    offset: 156144
     sourceAssetGUID: 0000000000000000f000000000000000
     buildTimeAssetPath: Resources/unity_builtin_extra
   - fileID: 11
     classID: 28
-    packedSize: 5576
-    offset: 122968
+    packedSize: 5588
+    offset: 161728
     sourceAssetGUID: 0000000000000000f000000000000000
     buildTimeAssetPath: Resources/unity_builtin_extra
   - fileID: 12
     classID: 28
-    packedSize: 29004
-    offset: 128544
+    packedSize: 5596
+    offset: 167320
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 13
+    classID: 28
+    packedSize: 29024
+    offset: 172920
     sourceAssetGUID: 08e3438278f26f645b75dfb507327962
     buildTimeAssetPath: Assets/753network/DiscordFeedbackForm/_resources/discord
       logo.png
-  - fileID: 13
-    classID: 28
-    packedSize: 1398268
-    offset: 157552
-    sourceAssetGUID: 4ba9f24739c8721499ae85110ba2157d
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/texture_matte/SampleAssetsSet_V1_phong1_MetallicSmoothness.png
   - fileID: 14
     classID: 28
-    packedSize: 1398256
-    offset: 1555824
-    sourceAssetGUID: 559d1fda9b459bc43a0b78d7fbe50b00
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/textures_mixed/SampleAssetsSet_V1_phong1_Normal.png
+    packedSize: 1398288
+    offset: 201944
+    sourceAssetGUID: 4ba9f24739c8721499ae85110ba2157d
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/texture_matte/SampleAssetsSet_V1_phong1_MetallicSmoothness.png
   - fileID: 15
     classID: 28
-    packedSize: 1398256
-    offset: 2954080
-    sourceAssetGUID: 5e07d6e71c9ed3f409237935b1c7a96e
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/texture_matte/SampleAssetsSet_V1_phong1_Normal.png
+    packedSize: 1398276
+    offset: 1600232
+    sourceAssetGUID: 559d1fda9b459bc43a0b78d7fbe50b00
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/textures_mixed/SampleAssetsSet_V1_phong1_Normal.png
   - fileID: 16
     classID: 28
-    packedSize: 2796356
-    offset: 4352336
-    sourceAssetGUID: 6d3a4716a21ee164eb4b89e692a0c95c
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/textures_mixed/SampleAssetsSet_V1_phong1_AlbedoTransparency.png
+    packedSize: 1398276
+    offset: 2998512
+    sourceAssetGUID: 5e07d6e71c9ed3f409237935b1c7a96e
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/texture_matte/SampleAssetsSet_V1_phong1_Normal.png
   - fileID: 17
     classID: 28
-    packedSize: 2796356
-    offset: 7148696
-    sourceAssetGUID: ab4e1feb84159f146bd1666598bad003
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/texture_matte/SampleAssetsSet_V1_phong1_AlbedoTransparency.png
+    packedSize: 2796376
+    offset: 4396792
+    sourceAssetGUID: 6d3a4716a21ee164eb4b89e692a0c95c
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/textures_mixed/SampleAssetsSet_V1_phong1_AlbedoTransparency.png
   - fileID: 18
     classID: 28
-    packedSize: 699176
-    offset: 9945056
-    sourceAssetGUID: b2c2c1a52cdb75943958a408093dee04
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/GridFloor_udon.png
+    packedSize: 2796376
+    offset: 7193168
+    sourceAssetGUID: ab4e1feb84159f146bd1666598bad003
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/texture_matte/SampleAssetsSet_V1_phong1_AlbedoTransparency.png
   - fileID: 19
     classID: 28
-    packedSize: 1398268
-    offset: 10644232
-    sourceAssetGUID: b82ab2397d1e79e47a6f85d50ed6fa8f
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/textures_mixed/SampleAssetsSet_V1_phong1_MetallicSmoothness.png
+    packedSize: 699196
+    offset: 9989544
+    sourceAssetGUID: b2c2c1a52cdb75943958a408093dee04
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/GridFloor_udon.png
   - fileID: 20
     classID: 28
-    packedSize: 108
-    offset: 12042504
-    sourceAssetGUID: e3265ab4bf004d28a9537516768c1c75
-    buildTimeAssetPath: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+    packedSize: 1398288
+    offset: 10688744
+    sourceAssetGUID: b82ab2397d1e79e47a6f85d50ed6fa8f
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/textures_mixed/SampleAssetsSet_V1_phong1_MetallicSmoothness.png
   - fileID: 21
     classID: 28
-    packedSize: 120
-    offset: 12042616
+    packedSize: 128
+    offset: 12087032
+    sourceAssetGUID: e3265ab4bf004d28a9537516768c1c75
+    buildTimeAssetPath: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  - fileID: 22
+    classID: 28
+    packedSize: 140
+    offset: 12087160
     sourceAssetGUID: 2e498d1c8094910479dc3e1b768306a4
     buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
       SDF - Fallback.asset
-  - fileID: 22
+  - fileID: 23
     classID: 28
-    packedSize: 1048696
-    offset: 12042736
+    packedSize: 1048716
+    offset: 12087304
     sourceAssetGUID: 8f586378b4e144a9851e7b34d9b748ee
     buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
       SDF.asset
-  - fileID: 23
-    classID: 48
-    packedSize: 23380
-    offset: 13091432
-    sourceAssetGUID: 0000000000000000f000000000000000
-    buildTimeAssetPath: Resources/unity_builtin_extra
   - fileID: 24
-    classID: 48
-    packedSize: 426192
-    offset: 13114816
-    sourceAssetGUID: 0000000000000000f000000000000000
-    buildTimeAssetPath: Resources/unity_builtin_extra
+    classID: 43
+    packedSize: 19636
+    offset: 13136024
+    sourceAssetGUID: 70108d78e82c2ec488d6b504865508e0
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/SampleAssetsSet_V1.fbx
   - fileID: 25
     classID: 48
-    packedSize: 13452
-    offset: 13541008
+    packedSize: 17324
+    offset: 13155664
     sourceAssetGUID: 0000000000000000f000000000000000
     buildTimeAssetPath: Resources/unity_builtin_extra
   - fileID: 26
     classID: 48
-    packedSize: 19276
-    offset: 13554464
+    packedSize: 110828
+    offset: 13172992
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 27
+    classID: 48
+    packedSize: 10256
+    offset: 13283824
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 28
+    classID: 48
+    packedSize: 11928
+    offset: 13294080
     sourceAssetGUID: fe393ace9b354375a9cb14cdbbc28be4
     buildTimeAssetPath: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
-  - fileID: 27
+  - fileID: 29
     classID: 74
     packedSize: 3452
-    offset: 13573744
+    offset: 13306008
     sourceAssetGUID: c189fb6c38490c7428aa3d10e153f3ee
     buildTimeAssetPath: Assets/753network/DiscordFeedbackForm/_resources/SubmitAndShrink.anim
-  - fileID: 28
+  - fileID: 30
     classID: 91
     packedSize: 444
-    offset: 13577200
+    offset: 13309464
     sourceAssetGUID: d4a031725b6d774429e87a1b1d10e264
     buildTimeAssetPath: Assets/753network/DiscordFeedbackForm/_resources/Discord
       Feedback Canvas.controller
-  - fileID: 29
-    classID: 115
-    packedSize: 92
-    offset: 109392
-    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
-  - fileID: 30
-    classID: 115
-    packedSize: 96
-    offset: 109488
-    sourceAssetGUID: 4ecd63eff847044b68db9453ce219299
-    buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Plugins/VRCCore-Editor.dll
   - fileID: 31
     classID: 115
-    packedSize: 116
-    offset: 109584
+    packedSize: 92
+    offset: 147952
     sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
     buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
   - fileID: 32
     classID: 115
-    packedSize: 100
-    offset: 109704
-    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+    packedSize: 96
+    offset: 148048
+    sourceAssetGUID: 4ecd63eff847044b68db9453ce219299
+    buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Plugins/VRCCore-Editor.dll
   - fileID: 33
     classID: 115
-    packedSize: 108
-    offset: 109808
+    packedSize: 116
+    offset: 148144
     sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
     buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
   - fileID: 34
     classID: 115
-    packedSize: 96
-    offset: 109920
-    sourceAssetGUID: 0cd44c1031e13a943bb63640046fad76
-    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Layout/CanvasScaler.cs
+    packedSize: 100
+    offset: 148264
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
   - fileID: 35
     classID: 115
-    packedSize: 88
-    offset: 110016
-    sourceAssetGUID: 45115577ef41a5b4ca741ed302693907
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/Udon/UdonBehaviour.cs
+    packedSize: 108
+    offset: 148368
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
   - fileID: 36
     classID: 115
-    packedSize: 128
-    offset: 110104
-    sourceAssetGUID: 4f231c4fb786f3946a6b90b886c48677
-    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/EventSystem/InputModules/StandaloneInputModule.cs
+    packedSize: 92
+    offset: 148480
+    sourceAssetGUID: 0cd44c1031e13a943bb63640046fad76
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Layout/CanvasScaler.cs
   - fileID: 37
     classID: 115
-    packedSize: 80
-    offset: 110232
-    sourceAssetGUID: 5f7201a12d95ffc409449d95f23cf332
-    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Text.cs
+    packedSize: 84
+    offset: 148576
+    sourceAssetGUID: 45115577ef41a5b4ca741ed302693907
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/Udon/UdonBehaviour.cs
   - fileID: 38
     classID: 115
-    packedSize: 100
-    offset: 110312
-    sourceAssetGUID: 71c1514a6bd24e1e882cebbe1904ce04
-    buildTimeAssetPath: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAsset.cs
+    packedSize: 84
+    offset: 148664
+    sourceAssetGUID: 4e29b1a8efbd4b44bb3f3716e73f07ff
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Button.cs
   - fileID: 39
     classID: 115
-    packedSize: 104
-    offset: 110416
-    sourceAssetGUID: 76c392e42b5098c458856cdf6ecaaaa1
-    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs
+    packedSize: 124
+    offset: 148752
+    sourceAssetGUID: 4f231c4fb786f3946a6b90b886c48677
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/EventSystem/InputModules/StandaloneInputModule.cs
   - fileID: 40
     classID: 115
-    packedSize: 92
-    offset: 110520
-    sourceAssetGUID: 9541d86e2fd84c1d9990edf0852d74ab
-    buildTimeAssetPath: Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshPro.cs
+    packedSize: 76
+    offset: 148880
+    sourceAssetGUID: 5f7201a12d95ffc409449d95f23cf332
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Text.cs
   - fileID: 41
     classID: 115
-    packedSize: 128
-    offset: 110616
-    sourceAssetGUID: bf61d954ecb803046953c666facfb904
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/Udon/ProgramSources/SerializedUdonProgramAsset.cs
+    packedSize: 96
+    offset: 148960
+    sourceAssetGUID: 71c1514a6bd24e1e882cebbe1904ce04
+    buildTimeAssetPath: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAsset.cs
   - fileID: 42
     classID: 115
-    packedSize: 96
-    offset: 110744
-    sourceAssetGUID: d199490a83bb2b844b9695cbf13b01ef
-    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/InputField.cs
+    packedSize: 100
+    offset: 149056
+    sourceAssetGUID: 76c392e42b5098c458856cdf6ecaaaa1
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs
   - fileID: 43
     classID: 115
-    packedSize: 104
-    offset: 110840
-    sourceAssetGUID: dc42784cf147c0c48a680349fa168899
-    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/GraphicRaycaster.cs
+    packedSize: 88
+    offset: 149160
+    sourceAssetGUID: 9541d86e2fd84c1d9990edf0852d74ab
+    buildTimeAssetPath: Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshPro.cs
   - fileID: 44
     classID: 115
-    packedSize: 88
-    offset: 110944
+    packedSize: 124
+    offset: 149248
+    sourceAssetGUID: bf61d954ecb803046953c666facfb904
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/Udon/ProgramSources/SerializedUdonProgramAsset.cs
+  - fileID: 45
+    classID: 115
+    packedSize: 92
+    offset: 149376
+    sourceAssetGUID: d199490a83bb2b844b9695cbf13b01ef
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/InputField.cs
+  - fileID: 46
+    classID: 115
+    packedSize: 100
+    offset: 149472
+    sourceAssetGUID: dc42784cf147c0c48a680349fa168899
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/GraphicRaycaster.cs
+  - fileID: 47
+    classID: 115
+    packedSize: 84
+    offset: 149576
     sourceAssetGUID: fe87c0e1cc204ed48ad3b37840f39efc
     buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Image.cs
-  - fileID: 45
+  - fileID: 48
     classID: 128
     packedSize: 352462
-    offset: 13577648
+    offset: 13309912
     sourceAssetGUID: e3265ab4bf004d28a9537516768c1c75
     buildTimeAssetPath: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
-  - fileID: 46
+  - fileID: 49
+    classID: 213
+    packedSize: 568
+    offset: 13662376
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 50
     classID: 213
     packedSize: 572
-    offset: 13930112
+    offset: 13662944
     sourceAssetGUID: 0000000000000000f000000000000000
     buildTimeAssetPath: Resources/unity_builtin_extra
-  - fileID: 47
+  - fileID: 51
     classID: 213
     packedSize: 580
-    offset: 13930688
+    offset: 13663520
     sourceAssetGUID: 0000000000000000f000000000000000
     buildTimeAssetPath: Resources/unity_builtin_extra
-  - fileID: 48
+  - fileID: 52
     classID: 213
     packedSize: 1000
-    offset: 13931272
+    offset: 13664104
     sourceAssetGUID: 08e3438278f26f645b75dfb507327962
     buildTimeAssetPath: Assets/753network/DiscordFeedbackForm/_resources/discord
       logo.png
-  - fileID: 49
-    classID: 114
-    packedSize: 1436
-    offset: 13932272
-    sourceAssetGUID: 4b4a91e0b7cdd724a85a0ded0762ff2d
-    buildTimeAssetPath: Assets/SerializedUdonPrograms/0265ecda8fc676a40b077061b8d3dd99.asset
-  - fileID: 50
-    classID: 114
-    packedSize: 1440
-    offset: 13933712
-    sourceAssetGUID: f7b240c228505c949aed73fc2e428f38
-    buildTimeAssetPath: Assets/SerializedUdonPrograms/3a95b57f45807ad4d809b8f923f5d0e9.asset
-  - fileID: 51
-    classID: 114
-    packedSize: 2828
-    offset: 13935152
-    sourceAssetGUID: c50e710810c249c4aa753e9d2b331414
-    buildTimeAssetPath: Assets/SerializedUdonPrograms/566cc00e27d5822449529a3785eae366.asset
-  - fileID: 52
-    classID: 114
-    packedSize: 1440
-    offset: 13937984
-    sourceAssetGUID: b03c8a5e98434d84dbf22165902f8cd5
-    buildTimeAssetPath: Assets/SerializedUdonPrograms/70b82d166aceb0d4d8cebf90207b826d.asset
   - fileID: 53
     classID: 114
-    packedSize: 4104
-    offset: 13939424
-    sourceAssetGUID: cc7d5daad7395744b8fd96f5843b3283
-    buildTimeAssetPath: Assets/SerializedUdonPrograms/992b53898913ca84c9d560479df7b9ff.asset
+    packedSize: 1436
+    offset: 13665104
+    sourceAssetGUID: 4b4a91e0b7cdd724a85a0ded0762ff2d
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/0265ecda8fc676a40b077061b8d3dd99.asset
   - fileID: 54
     classID: 114
-    packedSize: 8096
-    offset: 13943528
-    sourceAssetGUID: 4e77b81ef902f9e45b4585909bd72407
-    buildTimeAssetPath: Assets/SerializedUdonPrograms/9dda4ca5ba95e2547a54e483e19c81a3.asset
+    packedSize: 1440
+    offset: 13666544
+    sourceAssetGUID: f7b240c228505c949aed73fc2e428f38
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/3a95b57f45807ad4d809b8f923f5d0e9.asset
   - fileID: 55
     classID: 114
-    packedSize: 1648
-    offset: 13951624
-    sourceAssetGUID: e4aa66d63f589b441828d00721b75bb2
-    buildTimeAssetPath: Assets/SerializedUdonPrograms/c8df303ceb45ae84f85a11591f741734.asset
+    packedSize: 2828
+    offset: 13667984
+    sourceAssetGUID: c50e710810c249c4aa753e9d2b331414
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/566cc00e27d5822449529a3785eae366.asset
   - fileID: 56
     classID: 114
-    packedSize: 1324
-    offset: 13953272
-    sourceAssetGUID: 4c053430c6c63f240b514e909a3ab018
-    buildTimeAssetPath: Assets/SerializedUdonPrograms/fac7e3d245caa0d49960f9952848e544.asset
+    packedSize: 1440
+    offset: 13670816
+    sourceAssetGUID: b03c8a5e98434d84dbf22165902f8cd5
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/70b82d166aceb0d4d8cebf90207b826d.asset
   - fileID: 57
     classID: 114
-    packedSize: 1152
-    offset: 13954600
+    packedSize: 4104
+    offset: 13672256
+    sourceAssetGUID: cc7d5daad7395744b8fd96f5843b3283
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/992b53898913ca84c9d560479df7b9ff.asset
+  - fileID: 58
+    classID: 114
+    packedSize: 1320
+    offset: 13676360
+    sourceAssetGUID: 94fa0b127b2660b4880471d539beab0d
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/9c4e1692519544d4b9434a0f7e056581.asset
+  - fileID: 59
+    classID: 114
+    packedSize: 8548
+    offset: 13677680
+    sourceAssetGUID: 4e77b81ef902f9e45b4585909bd72407
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/9dda4ca5ba95e2547a54e483e19c81a3.asset
+  - fileID: 60
+    classID: 114
+    packedSize: 1648
+    offset: 13686232
+    sourceAssetGUID: e4aa66d63f589b441828d00721b75bb2
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/c8df303ceb45ae84f85a11591f741734.asset
+  - fileID: 61
+    classID: 114
+    packedSize: 1324
+    offset: 13687880
+    sourceAssetGUID: 4c053430c6c63f240b514e909a3ab018
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/fac7e3d245caa0d49960f9952848e544.asset
+  - fileID: 62
+    classID: 114
+    packedSize: 1156
+    offset: 13689208
     sourceAssetGUID: 2e498d1c8094910479dc3e1b768306a4
     buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
       SDF - Fallback.asset
-  - fileID: 58
+  - fileID: 63
     classID: 114
-    packedSize: 27760
-    offset: 13955752
+    packedSize: 28764
+    offset: 13690368
     sourceAssetGUID: 8f586378b4e144a9851e7b34d9b748ee
     buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
       SDF.asset
---- !u!641289076 &2074276341605701156
-AudioBuildInfo:
-  m_IsAudioDisabled: 0
-  m_AudioClipCount: 0
-  m_AudioMixerCount: 0
---- !u!382020655 &5432003044980580361
-PluginBuildInfo:
-  m_RuntimePlugins:
-  - Unity.Burst.Unsafe
-  - VRC.SDK3.Dynamics.PhysBone
-  - OVRPlugin
-  - YamlDotNet
-  - System.Threading.Tasks.Extensions
-  - VRC.Udon.ClientBindings
-  - openvr_api
-  - portmidi
-  - VRC.Udon.VRCWrapperModules
-  - VRCSDK3
-  - VRC.Udon.VM
-  - SDKBase-Legacy
-  - Serilog
-  - nunit.framework
-  - SemanticVersioning
-  - librsync.net
-  - VRC.Udon.Common
-  - VRC.SDK3.Dynamics.Contact
-  - Collections.Pooled
-  - System.Collections.Immutable
-  - System.Numerics.Vectors
-  - System.Buffers
-  - VRC.Dynamics
-  - VRC.Udon.Wrapper
-  - Serilog.Sinks.File
-  - VRC.Udon.Security
-  - clipper_library
-  - VRC.Collections
-  - VRCSDKBase
-  - System.Runtime.CompilerServices.Unsafe
-  - vrc_image_loader
-  - libvrc_image_loader
-  - Newtonsoft.Json
-  - libopenvr_api
-  - Blake2Sharp
-  - System.Memory
-  - System.Text.Encoding.CodePages
-  - VRCCore-Editor
-  - VRC.Utility
-  - AudioPluginOculusSpatializer
-  m_EditorPlugins:
-  - ICSharpCode.SharpZipLib
-  - VRCSDK3-Editor
-  - Microsoft.CodeAnalysis
-  - VRC.Udon.VRCTypeResolverModules
-  - AppleEventIntegration
-  - liblz4Plastic
-  - Unity.Plastic.Newtonsoft.Json
-  - unityplastic
-  - VRC.Udon.Compiler
-  - System.Reflection.Metadata
-  - Microsoft.CodeAnalysis.CSharp
-  - VRC.Udon.UAssembly
-  - vpm-core-lib
-  - VRC.Udon.Graph
-  - UnityEditor.VR
-  - 0Harmony
-  - VRC.SDK3.Dynamics.PhysBone.Editor
-  - VRCSDKBase-Editor
-  - VRC.SDK3.Dynamics.Contact.Editor
-  - VRC.Udon.VRCGraphModules
-  - log4netPlastic
-  - VRC.Udon.EditorBindings
-  - zlib64Plastic
-  - Unity.Plastic.Antlr3.Runtime
-  - Serilog.Sinks.Unity3D
-  - lz4x64Plastic
+--- !u!1126 &5111821185640617936
+PackedAssets:
+  m_ShortPath: CAB-25c93ffae45412888480bc73e10e120c
+  m_Overhead: 4032
+  m_Contents:
+  - fileID: 1
+    classID: 142
+    packedSize: 104
+    offset: 4032
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: AssetBundle Object
+  - fileID: 2
+    classID: 290
+    packedSize: 112
+    offset: 4136
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 'Built-in AssetBundleManifest: AssetBundleManifest'
+--- !u!668709126 &7181733792518186504
+BuiltAssetBundleInfoSet:
+  bundleInfos:
+  - bundleName: scene-standalonewindows64-36 questions.vrcw
+    bundleArchiveFile: 2
+    packagedFileIndices: 0000000001000000
+  - bundleName: 36 Questions
+    bundleArchiveFile: 5
+    packagedFileIndices: 04000000
