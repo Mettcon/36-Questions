@@ -11,32 +11,65 @@
     },
     "com.vrchat.worlds": {
       "version": "3.5.0"
+    },
+    "dev.architech.protv": {
+      "version": "3.0.0-beta.11"
+    },
+    "dev.architech.protv.extras": {
+      "version": "0.7.1-beta"
+    },
+    "dev.architech.umbrella": {
+      "version": "0.6.0"
     }
   },
   "locked": {
     "com.vrchat.core.vpm-resolver": {
-      "version": "0.1.27",
+      "version": "0.1.28",
       "dependencies": {}
     },
     "vrchat.jordo.easyquestswitch": {
-      "version": "1.2.1",
+      "version": "1.4.0",
       "dependencies": {}
     },
     "dev.onevr.vrworldtoolkit": {
-      "version": "2.1.5",
-      "dependencies": {
-        "com.vrchat.base": "^3.2.x"
-      }
+      "version": "3.0.1",
+      "dependencies": {}
     },
     "com.vrchat.worlds": {
-      "version": "3.5.0",
+      "version": "3.5.2",
       "dependencies": {
-        "com.vrchat.base": "3.5.0"
+        "com.vrchat.base": "3.5.2"
       }
     },
     "com.vrchat.base": {
-      "version": "3.5.0",
+      "version": "3.5.2",
       "dependencies": {}
+    },
+    "dev.architech.protv": {
+      "version": "3.0.0-beta.14.6",
+      "dependencies": {
+        "com.vrchat.worlds": "^3.3",
+        "dev.architech.sdk": ">=0.14 <1"
+      }
+    },
+    "dev.architech.sdk": {
+      "version": "0.15.4",
+      "dependencies": {
+        "com.vrchat.worlds": "^3.4"
+      }
+    },
+    "dev.architech.protv.extras": {
+      "version": "0.8.0-beta",
+      "dependencies": {
+        "dev.architech.protv": "^3.0.0-beta.13.2"
+      }
+    },
+    "dev.architech.umbrella": {
+      "version": "0.7.1",
+      "dependencies": {
+        "com.vrchat.worlds": "^3.3",
+        "dev.architech.sdk": "^0.15.3"
+      }
     }
   }
 }

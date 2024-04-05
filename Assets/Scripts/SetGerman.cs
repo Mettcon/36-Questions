@@ -12,7 +12,6 @@ public class SetGerman : UdonSharpBehaviour
     public override void Interact()
     {
         base.Interact();
-        Questionhandler.Language = "ger";
-        Questionhandler.SetQuestion();
+        Questionhandler.Language = "de";
     }
 }

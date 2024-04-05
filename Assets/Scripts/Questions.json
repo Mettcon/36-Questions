@@ -1,0 +1,226 @@
+{
+    "Questions": [
+        {
+            "en": "1. Given the choice of anyone in the world, whom would you want as a dinner guest?",
+            "de": "1. Wenn du die Wahl hättest, wen auf der Welt würdest du als Gast zum Abendessen einladen wollen?",
+            "zh": "1. 如果可以选择世界上的任何一个人，你希望谁来做晚餐客人？"
+        },
+        {
+            "en": "2. Would you like to be famous? In what way?",
+            "de": "2. Möchtest du berühmt sein? Auf welche Weise?",
+            "zh": "2. 你想成为名人吗？以何种方式？"
+        },
+        {
+            "en": "3. Before making a telephone call, do you ever rehearse what you are going to say? Why?",
+            "de": "3. Übst du manchmal, was du sagen wirst, bevor du einen Telefonanruf machst? Warum?",
+            "zh": "3. 在打电话之前，你有没有预演过你要说的话？为什么？"
+        },
+        {
+            "en": "4. What would constitute a 'perfect' day for you?",
+            "de": "4. Wie würde für dich ein 'perfekter' Tag aussehen?",
+            "zh": "4. 对你来说，什么样的日子才算 \"完美\"？"
+        },
+        {
+            "en": "5. When did you last sing to yourself? To someone else?",
+            "de": "5. Wann hast du das letzte Mal für dich selbst gesungen? Und für jemand anderen?",
+            "zh": "5. 你最后一次对自己唱歌是什么时候？对别人？"
+        },
+        {
+            "en": "6. If you were able to live to the age of 90 and retain either the mind or body of a 30-year-old for the last 60 years of your life, which would you want?",
+            "de": "6. Wenn du bis 90 leben könntest und entweder den Geist oder den Körper eines 30-Jährigen für die letzten 60 Jahre deines Lebens behalten könntest, was würdest du wählen?",
+            "zh": "6. 如果你能活到90岁，并在生命的最后60年里保持30岁的头脑或身体，你希望是哪一种？"
+        },
+        {
+            "en": "7. Do you have a secret hunch about how you will die?",
+            "de": "7. Hast du eine geheime Ahnung, wie du sterben wirst?",
+            "zh": "7. 你对自己的死亡方式有什么秘密预感吗？"
+        },
+        {
+            "en": "8. Name three things you and your partner appear to have in common.",
+            "de": "8. Nenne drei Dinge, die du und dein Partner gemeinsam zu haben scheint.",
+            "zh": "8. 说出你和你的伴侣似乎有三个共同点。"
+        },
+        {
+            "en": "9. For what in your life do you feel most grateful?",
+            "de": "9. Für was in deinem Leben fühlst du dich am meisten dankbar?",
+            "zh": "9. 在你的生活中，你对什么感到最感激？"
+        },
+        {
+            "en": "10. If you could change anything about the way you were raised, what would it be?",
+            "de": "10. Wenn du irgendetwas an der Art und Weise ändern könntest, wie du aufgezogen wurdest, was wäre das?",
+            "zh": "10. 如果你能改变你的成长方式，你会怎么做？"
+        },
+        {
+            "en": "11. Take four minutes and tell your partner your life story in as much detail as possible.",
+            "de": "11. Nimm dir vier Minuten Zeit und erzähle deinem Partner deine Lebensgeschichte mit so vielen Details wie möglich.",
+            "zh": "11. 用四分钟时间，尽可能详细地告诉你的伙伴你的生活故事。"
+        },
+        {
+            "en": "12. If you could wake up tomorrow having gained any one quality or ability, what would it be?",
+            "de": "12. Wenn du morgen aufwachen könntest und eine bestimmte Eigenschaft oder Fähigkeit gewonnen hättest, welche wäre das?",
+            "zh": "12. 如果你明天醒来时能获得任何一种品质或能力，你会是什么？"
+        },
+        {
+            "en": "Set II",
+            "de": "Satz II",
+            "zh": "第二套"
+        },
+        {
+            "en": "13. If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know?",
+            "de": "13. Wenn eine Kristallkugel dir die Wahrheit über dich, dein Leben, die Zukunft oder etwas anderes sagen könnte, was würdest du wissen wollen?",
+            "zh": "13. 如果一个水晶球可以告诉你关于你自己、你的生活、未来或其他任何事情的真相，你会想知道什么？"
+        },
+        {
+            "en": "14. Is there something that you've dreamed of doing for a long time? Why haven't you done it?",
+            "de": "14. Gibt es etwas, was du schon lange tun träumst? Warum hast du es noch nicht getan?",
+            "zh": "14. 有什么事情是你长期以来梦寐以求的？为什么你没有做呢？"
+        },
+        {
+            "en": "15. What is the greatest accomplishment of your life?",
+            "de": "15. Was ist die größte Leistung deines Lebens?",
+            "zh": "15. 你人生中最大的成就是什么？"
+        },
+        {
+            "en": "16. What do you value most in a friendship?",
+            "de": "16. Was schätzt du am meisten in einer Freundschaft?",
+            "zh": "16. 你在友谊中最看重什么？"
+        },
+        {
+            "en": "17. What is your most treasured memory?",
+            "de": "17. Was ist deine kostbarste Erinnerung?",
+            "zh": "17. 你最珍惜的记忆是什么？"
+        },
+        {
+            "en": "18. What is your most terrible memory?",
+            "de": "18. Was ist deine schrecklichste Erinnerung?",
+            "zh": "18. 你最可怕的记忆是什么？"
+        },
+        {
+            "en": "19. If you knew that in one year you would die suddenly, would you change anything about the way you are now living? Why?",
+            "de": "19. Wenn du wüsstest, dass du in einem Jahr plötzlich sterben würdest, würdest du etwas an deiner jetzigen Lebensweise ändern? Warum?",
+            "zh": "19. 如果你知道一年后你会突然死亡，你会改变你现在的生活方式吗？为什么？"
+        },
+        {
+            "en": "20. What does friendship mean to you?",
+            "de": "20. Was bedeutet Freundschaft für dich?",
+            "zh": "20. 友谊对你意味着什么？"
+        },
+        {
+            "en": "21. What roles do love and affection play in your life?",
+            "de": "21. Welche Rollen spielen Liebe und Zuneigung in deinem Leben?",
+            "zh": "21. 爱和亲情在你的生活中扮演什么角色？"
+        },
+        {
+            "en": "22. Alternate sharing something you consider a positive characteristic of your partner. Share a total of five items.",
+            "de": "22. Wechselt euch ab beim Teilen einer positiven Eigenschaft eures Partners. Teilt insgesamt fünf Merkmale.",
+            "zh": "22. 交替分享一些你认为你的伴侣的积极特征。共分享五个项目。"
+        },
+        {
+            "en": "23. How close and warm is your family? Do you feel your childhood was happier than most other people's?",
+            "de": "23. Wie eng und herzlich ist deine Familie? Findest du, dass deine Kindheit glücklicher war als die der meisten anderen Menschen?",
+            "zh": "23. 你的家庭有多亲密和温暖？你是否觉得你的童年比其他大多数人的童年更幸福？"
+        },
+        {
+            "en": "24. How do you feel about your relationship with your mother?",
+            "de": "24. Wie fühlst du dich bezüglich deiner Beziehung zu deiner Mutter?",
+            "zh": "24. 你觉得你和你母亲的关系如何?"
+        },
+        {
+            "en": "Set III",
+            "de": "Satz III",
+            "zh": "第三套"
+        },
+        {
+            "en": "25. Make three true 'we' statements each. For instance, 'We are both in this room feeling ... '",
+            "de": "25. Macht jeweils drei wahre 'Wir'-Aussagen. Zum Beispiel: 'Wir sind beide in diesem Raum und fühlen ... '",
+            "zh": "25. 每人做三个真实的 \"我们 \"陈述。例如，\"我们都在这个房间里，感觉......\""
+        },
+        {
+            "en": "26. Complete this sentence: 'I wish I had someone with whom I could share ... '",
+            "de": "26. Vervollständige diesen Satz: 'Ich wünschte, ich hätte jemanden, mit dem ich ... teilen könnte.'",
+            "zh": "26. 完成这个句子。\"我希望我有一个人可以和他分享......\""
+        },
+        {
+            "en": "27. If you were going to become a close friend with your partner, please share what would be important for him or her to know.",
+            "de": "27. Wenn du mit deinem Partner eine enge Freundschaft eingehen würdest, teile bitte mit, was für ihn oder sie wichtig zu wissen wäre.",
+            "zh": "27. 如果你要和你的伴侣成为亲密的朋友，请分享什么对他或她来说是重要的。"
+        },
+        {
+            "en": "28. Tell your partner what you like about them; be very honest this time, saying things that you might not say to someone you've just met.",
+            "de": "28. Sage deinem Partner, was du an ihm magst; sei diesmal sehr ehrlich und sage Dinge, die du jemandem, den du gerade erst getroffen hast, vielleicht nicht sagen würdest.",
+            "zh": "28. 告诉你的伴侣你喜欢他们什么；这次要非常诚实，说一些你可能不会对刚认识的人说的话。"
+        },
+        {
+            "en": "29. Share with your partner an embarrassing moment in your life.",
+            "de": "29. Teile mit deinem Partner einen peinlichen Moment in deinem Leben.",
+            "zh": "29. 与你的伴侣分享你生活中一个尴尬的时刻。"
+        },
+        {
+            "en": "30. When did you last cry in front of another person? By yourself?",
+            "de": "30. Wann hast du das letzte Mal vor einer anderen Person geweint? Und allein?",
+            "zh": "30. 你最后一次在别人面前哭是什么时候？自己一个人？"
+        },
+        {
+            "en": "31. Tell your partner something that you like about them already.",
+            "de": "31. Sage deinem Partner etwas, das du schon an ihm magst.",
+            "zh": "31. 告诉你的伴侣一些你已经喜欢他们的事情。"
+        },
+        {
+            "en": "32. What, if anything, is too serious to be joked about?",
+            "de": "32. Gibt es etwas, das zu ernst ist, um darüber zu scherzen?",
+            "zh": "32. 如果有什么事情是太严重而不能开玩笑的？"
+        },
+        {
+            "en": "33. If you were to die this evening with no opportunity to communicate with anyone, what would you most regret not having told someone? Why haven't you told them yet?",
+            "de": "33. Wenn du heute Abend sterben würdest, ohne die Möglichkeit, mit jemandem zu kommunizieren, was würdest du am meisten bedauern, jemandem nicht gesagt zu haben? Warum hast du es ihnen noch nicht gesagt?",
+            "zh": "33. 如果你今天晚上死了，没有机会与人交流，你最后悔没有告诉别人什么？为什么你还没有告诉他们？"
+        },
+        {
+            "en": "34. Your house, containing everything you own, catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?",
+            "de": "34. Dein Haus, in dem sich all dein Besitz befindet, fängt Feuer. Nachdem du deine Liebsten und Haustiere gerettet hast, hast du Zeit, sicher noch einmal hineinzulaufen, um einen Gegenstand zu retten. Welcher wäre das? Warum?",
+            "zh": "34. 你的房子，包括你的一切，起火了。在救出你的亲人和宠物后，你有时间安全地做最后的冲刺，以拯救任何一件物品。那会是什么？为什么？"
+        },
+        {
+            "en": "35. Of all the people in your family, whose death would you find most disturbing? Why?",
+            "de": "35. Von allen Menschen in deiner Familie, wessen Tod würdest du am verstörendsten finden? Warum?",
+            "zh": "35. 在你家里所有的人中，你会觉得谁的死亡最令人不安？为什么？"
+        },
+        {
+            "en": "36. Share a personal problem and ask your partner's advice on how he or she might handle it. Also, ask your partner to reflect back to you how you seem to be feeling about the problem you have chosen.",
+            "de": "36. Teile ein persönliches Problem und frage deinen Partner um Rat, wie er oder sie damit umgehen würde. Bitte deinen Partner auch, dir zurückzuspiegeln, wie du dich bezüglich des gewählten Problems zu fühlen scheinst.",
+            "zh": "36. 分享一个个人问题，并征求你的伴侣对他或她如何处理这个问题的建议。同时，请你的伴侣向你反映你对你所选择的问题的感觉如何。"
+        }
+    ],
+
+    "Intro": [
+        {
+            "en": "Identify someone with whom you’d like to become closer. It could be someone you know well or someone you’re just getting to know.",
+            "de": "Suchen Sie sich jemanden, dem Sie sich gerne näher kommen würden. Das kann jemand sein, den Sie gut kennen, oder jemand, den Sie gerade erst kennen lernen.",
+            "zh": "确定你希望与之更亲近的人。这个人可以是你熟悉的人，也可以是你刚刚认识的人。"
+        },
+        {
+            "en": "Although this exercise has a reputation for making people fall in love, it is actually useful for anyone you want to feel close to, including family members, friends, and acquaintances.",
+            "de": "Obwohl diese Übung den Ruf hat, Menschen dazu zu bringen, sich zu verlieben, ist sie eigentlich für jeden nützlich, dem Sie sich nahe fühlen wollen, einschließlich Familienmitglieder, Freunde und Bekannte.",
+            "zh": "虽然这个练习有让人坠入爱河的美誉，但它其实对任何你想感到亲近的人都有用，包括家人、朋友和熟人。"
+        },
+        {
+            "en": "Before trying it, make sure both you and your partner are comfortable with sharing personal thoughts and feelings with each other.",
+            "de": "Bevor Sie es ausprobieren, sollten Sie sicherstellen, dass sowohl Sie als auch Ihr Partner sich wohl dabei fühlen, persönliche Gedanken und Gefühle miteinander zu teilen.",
+            "zh": "在尝试之前，请确保您和伴侣都愿意与对方分享个人想法和感受。"
+        },
+        {
+            "en": "The series is divided into three sets, each more probing than the last, with the underlying idea that mutual vulnerability fosters closeness. These questions encourage openness and self-disclosure, but it's important to always prioritise your comfort and boundaries.",
+            "de": "Diese Serie ist in drei Sets unterteilt, von denen eine tiefgehender ist als die andere, mit dem Grundgedanken, dass gegenseitige Verletzlichkeit Nähe fördert. Diese Fragen ermutigen zu Offenheit und Selbstoffenbarung, aber es ist wichtig, dass Sie immer Ihr Wohlbefinden und Ihre Grenzen in den Vordergrund stellen.",
+            "zh": "这一系列问题分为三组，每一组都比上一组更具有探究性，其基本理念是相互的脆弱可以促进亲密关系。这些问题鼓励开放和自我披露，但重要的是要始终优先考虑自己的舒适度和界限。"
+        }
+    ],
+
+
+    "Old": [
+        {
+            "en": "Based on Arthur Aron's psychological research, these questions are designed to accelerate intimacy between two people.\r\n\r\nThe series is divided into three sets, each more probing than the last, with the underlying idea that mutual vulnerability fosters closeness. These questions encourage openness and self-disclosure, but it's important to always prioritise your comfort and boundaries.\r\n\r\nIt's important to note that although this study has gained popularity as a method of 'falling in love', the original intention was more about understanding intimacy and close relationships. The concept of falling in love through this experiment is a sensational interpretation rather than the actual claim of the study.",
+            "de": "Diese Fragen basieren auf den psychologischen Forschungen von Arthur Aron und sollen die Intimität zwischen zwei Menschen fördern.\r\n\r\nDie Serie ist in drei Sätze unterteilt, von denen jeder tiefer in die Materie eindringt als der letzte. Der Grundgedanke ist, dass gegenseitige Verletzlichkeit die Nähe fördert. Diese Fragen ermutigen zu Offenheit und Selbstoffenbarung, aber es ist wichtig, dass Sie immer Ihr Wohlbefinden und Ihre Grenzen in den Vordergrund stellen.\r\n\r\nEs ist wichtig, darauf hinzuweisen, dass diese Studie zwar als Methode des \"Verliebtseins\" an Popularität gewonnen hat, dass es aber ursprünglich mehr um das Verständnis von Intimität und engen Beziehungen ging. Das Konzept des Verliebtseins durch dieses Experiment ist eine sensationelle Interpretation und nicht der eigentliche Anspruch der Studie.",
+            "zh": "这些问题基于亚瑟-阿隆的心理学研究，旨在加速两人之间的亲密关系。\r\n\r\n该系列问题分为三组，每一组都比上一组更具有探究性，其基本理念是相互的脆弱性能促进亲密关系。这些问题鼓励开放和自我披露，但重要的是要始终优先考虑自己的舒适度和界限。\r\n\r\n值得注意的是，虽然这项研究作为一种 \"恋爱 \"方法而广为流行，但其初衷更多的是为了了解亲密关系和亲密关系。通过这项实验坠入爱河的概念只是一种耸人听闻的解释，而不是这项研究的实际主张。"
+        }
+    ]
+}

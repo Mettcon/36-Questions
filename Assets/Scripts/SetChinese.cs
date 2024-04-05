@@ -12,7 +12,6 @@ public class SetChinese : UdonSharpBehaviour
     public override void Interact()
     {
         base.Interact();
-        Questionhandler.Language = "chi";
-        Questionhandler.SetQuestion();
+        Questionhandler.Language= "zh";
     }
 }

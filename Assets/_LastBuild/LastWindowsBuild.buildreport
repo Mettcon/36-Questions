@@ -1,6 +1,1590 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1126 &-8011249447463388359
+--- !u!668709126 &-6617988543645056803
+BuiltAssetBundleInfoSet:
+  bundleInfos:
+  - bundleName: scene-standalonewindows64-36 questions.vrcw
+    bundleArchiveFile: 2
+    packagedFileIndices: 0000000001000000
+  - bundleName: 36 Questions
+    bundleArchiveFile: 5
+    packagedFileIndices: 04000000
+--- !u!1521398425 &-6165986575963842057
+VideoBuildInfo:
+  m_VideoClipCount: 0
+  m_IsVideoModuleDisabled: 0
+--- !u!1126 &-5640881832333698670
+PackedAssets:
+  m_ShortPath: BuildPlayer-36 Questions.sharedAssets
+  m_Overhead: 141609
+  m_Contents:
+  - fileID: 1
+    classID: 150
+    packedSize: 97
+    offset: 143544
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 
+  - fileID: 2
+    classID: 142
+    packedSize: 160
+    offset: 143648
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 
+  - fileID: 3
+    classID: 21
+    packedSize: 268
+    offset: 143808
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 4
+    classID: 21
+    packedSize: 208
+    offset: 144080
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 5
+    classID: 21
+    packedSize: 996
+    offset: 144288
+    sourceAssetGUID: 13d1ac1bbf4e4c3469e6d5984e2bfc93
+    buildTimeAssetPath: Assets/ArchViz Sofa Pack - Lite/Pillows/Materials/Mat_Sofa1_Cotton_Pillows.mat
+  - fileID: 6
+    classID: 21
+    packedSize: 996
+    offset: 145288
+    sourceAssetGUID: f0ddc3e4123315c479c0a66117ee9371
+    buildTimeAssetPath: Assets/ArchViz Sofa Pack - Lite/Sofa2/Materials/Mat_Sofa2_Cotton_Base.mat
+  - fileID: 7
+    classID: 21
+    packedSize: 1044
+    offset: 146288
+    sourceAssetGUID: da5207230e5082242925ac554d21f009
+    buildTimeAssetPath: Assets/Quixel/Megascans/3D_Assets/Clay Pot_ueilahthw/Materials/Clay
+      Pot_ueilahthw.mat
+  - fileID: 8
+    classID: 21
+    packedSize: 1160
+    offset: 147336
+    sourceAssetGUID: 9209d77bd6317b3458f018bbc6d0106e
+    buildTimeAssetPath: Assets/Quixel/Megascans/3D_Plants/Amaryllis_sgzkv/Materials/Amaryllis_sgzkv.mat
+  - fileID: 9
+    classID: 21
+    packedSize: 1172
+    offset: 148496
+    sourceAssetGUID: 31ac007e7304b4c42b80772b5f5a2f1e
+    buildTimeAssetPath: Assets/Quixel/Megascans/3D_Plants/Amaryllis_sgzkv/Materials/Amaryllis_sgzkv_Billboard.mat
+  - fileID: 10
+    classID: 21
+    packedSize: 1040
+    offset: 149672
+    sourceAssetGUID: 456fbb1cad7f2b740a192086814cea0f
+    buildTimeAssetPath: Assets/Quixel/Megascans/Surfaces/Carpet_pgph1jp0/Materials/Carpet_pgph1jp0.mat
+  - fileID: 11
+    classID: 21
+    packedSize: 1040
+    offset: 150712
+    sourceAssetGUID: ce5db4efbb8e4d542b63b04f02f917d7
+    buildTimeAssetPath: Assets/Quixel/Megascans/Surfaces/Compost_tepnabbs/Materials/Compost_tepnabbs.mat
+  - fileID: 12
+    classID: 21
+    packedSize: 1024
+    offset: 151752
+    sourceAssetGUID: 82652cd14a37ce34ab23ea39ba4776be
+    buildTimeAssetPath: Assets/Quixel/Megascans/Surfaces/Wall Paint_sj0jajtc/Materials/Wall
+      Paint_sj0jajtc.mat
+  - fileID: 13
+    classID: 21
+    packedSize: 912
+    offset: 152776
+    sourceAssetGUID: fd20e45036ef323459e8286e9c23c02c
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Materials/GridFloor_udon.mat
+  - fileID: 14
+    classID: 21
+    packedSize: 956
+    offset: 153688
+    sourceAssetGUID: 1c987494452b85f4ab4cac3322415907
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Materials/SampleAssets_matte.mat
+  - fileID: 15
+    classID: 21
+    packedSize: 956
+    offset: 154648
+    sourceAssetGUID: 5bec13570cd015140a051a07a3c55af5
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Materials/SampleAssets_mixed.mat
+  - fileID: 16
+    classID: 21
+    packedSize: 1004
+    offset: 155608
+    sourceAssetGUID: 4935b24ea03e42d4f86e9c714b1b224d
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Materials/ProTVHomeTheater.mat
+  - fileID: 17
+    classID: 21
+    packedSize: 576
+    offset: 156616
+    sourceAssetGUID: 83afd99a9c5be4c4ebc6d9b327ba8a5a
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Materials/TVBlit.mat
+  - fileID: 18
+    classID: 21
+    packedSize: 908
+    offset: 157192
+    sourceAssetGUID: f000a6231ee72da43b72352ee9a334b6
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Models/CurvedTVSet/Textures/PowerEmission.mat
+  - fileID: 19
+    classID: 21
+    packedSize: 704
+    offset: 158104
+    sourceAssetGUID: 3bf904327f3691d4bb42f25b7695b629
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Models/CurvedTVSet/Textures/SpeakerBase.mat
+  - fileID: 20
+    classID: 21
+    packedSize: 708
+    offset: 158808
+    sourceAssetGUID: 84f32e9136da30e4eb1122a69475d093
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Models/CurvedTVSet/Textures/SpeakerTreble.mat
+  - fileID: 21
+    classID: 21
+    packedSize: 924
+    offset: 159520
+    sourceAssetGUID: fb91514362a10c3418ef97fa1b97a3b8
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Models/CurvedTVSet/Textures/Tv
+      Set.mat
+  - fileID: 22
+    classID: 21
+    packedSize: 148
+    offset: 160448
+    sourceAssetGUID: e3265ab4bf004d28a9537516768c1c75
+    buildTimeAssetPath: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  - fileID: 23
+    classID: 21
+    packedSize: 2016
+    offset: 160600
+    sourceAssetGUID: 2e498d1c8094910479dc3e1b768306a4
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+      SDF - Fallback.asset
+  - fileID: 24
+    classID: 21
+    packedSize: 956
+    offset: 162616
+    sourceAssetGUID: 8f586378b4e144a9851e7b34d9b748ee
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+      SDF.asset
+  - fileID: 25
+    classID: 21
+    packedSize: 2000
+    offset: 163576
+    sourceAssetGUID: b519371b370990c44a6e753ec694634c
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/LiberationSans
+      SDF.asset
+  - fileID: 26
+    classID: 21
+    packedSize: 928
+    offset: 165576
+    sourceAssetGUID: 0b080b7499bf5bb438e74550def81f58
+    buildTimeAssetPath: Assets/model.fbx
+  - fileID: 27
+    classID: 21
+    packedSize: 928
+    offset: 166504
+    sourceAssetGUID: d725e10f965540a4da489b432d444b7b
+    buildTimeAssetPath: Assets/OwnAssets/Table.fbx
+  - fileID: 28
+    classID: 28
+    packedSize: 121996
+    offset: 167432
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 'Built-in Texture2D: sactx-0-2048x1024-Crunch-atlas_plain-6f4af4a0'
+  - fileID: 29
+    classID: 28
+    packedSize: 31948
+    offset: 289432
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 'Built-in Texture2D: sactx-0-512x256-Crunch-atlas_retro-97c90b55'
+  - fileID: 30
+    classID: 28
+    packedSize: 5584
+    offset: 321384
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 31
+    classID: 28
+    packedSize: 5584
+    offset: 326968
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 32
+    classID: 28
+    packedSize: 5592564
+    offset: 332552
+    sourceAssetGUID: 03d7dd5e67e6fb9469478a32976e38d4
+    buildTimeAssetPath: Assets/Quixel/Megascans/3D_Plants/Amaryllis_sgzkv/Textures/Billboard/Normal_2K__sgzkv.png
+  - fileID: 33
+    classID: 28
+    packedSize: 2796352
+    offset: 5925120
+    sourceAssetGUID: 055e0417816f05b4f9a837ad308b1353
+    buildTimeAssetPath: Assets/Quixel/Megascans/Surfaces/Compost_tepnabbs/Textures/Albedo_2K__tepnabbs.png
+  - fileID: 34
+    classID: 28
+    packedSize: 1398264
+    offset: 8721472
+    sourceAssetGUID: 12141eed5c9d46b4586f26b1aa2db27d
+    buildTimeAssetPath: Assets/Scene/36 Questions/Lightmap-0_comp_dir.png
+  - fileID: 35
+    classID: 28
+    packedSize: 2796336
+    offset: 10119736
+    sourceAssetGUID: 14186cc955140614a8e80c6d53fb20c5
+    buildTimeAssetPath: Assets/rgb.jpg
+  - fileID: 36
+    classID: 28
+    packedSize: 11184956
+    offset: 12916072
+    sourceAssetGUID: 38bb15d6b378aff46b461e248592d1da
+    buildTimeAssetPath: Assets/GrassFlowers/Textures/Ground/Grass01_BigUV.png
+  - fileID: 37
+    classID: 28
+    packedSize: 1048712
+    offset: 24101032
+    sourceAssetGUID: 39ab4493dd5100e4ab28fcba8a6dbf28
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Models/CurvedTVSet/Textures/Tv
+      Set_Tv Set_Normal.png
+  - fileID: 38
+    classID: 28
+    packedSize: 5592568
+    offset: 25149744
+    sourceAssetGUID: 4168b56240f335342a20c7c707976052
+    buildTimeAssetPath: Assets/ArchViz Sofa Pack - Lite/Sofa2/Textures/Sofa2_Base_normal.png
+  - fileID: 39
+    classID: 28
+    packedSize: 1398288
+    offset: 30742312
+    sourceAssetGUID: 4ba9f24739c8721499ae85110ba2157d
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/texture_matte/SampleAssetsSet_V1_phong1_MetallicSmoothness.png
+  - fileID: 40
+    classID: 28
+    packedSize: 2796352
+    offset: 32140600
+    sourceAssetGUID: 4d6ecf941214ec8409cb029e7f91815f
+    buildTimeAssetPath: Assets/Quixel/Megascans/Surfaces/Carpet_pgph1jp0/Textures/Albedo_2K__pgph1jp0.png
+  - fileID: 41
+    classID: 28
+    packedSize: 2796336
+    offset: 34936952
+    sourceAssetGUID: 55466621449985e4c9fddf728c128459
+    buildTimeAssetPath: Assets/OwnAssets/rgb.jpg
+  - fileID: 42
+    classID: 28
+    packedSize: 1398276
+    offset: 37733288
+    sourceAssetGUID: 559d1fda9b459bc43a0b78d7fbe50b00
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/textures_mixed/SampleAssetsSet_V1_phong1_Normal.png
+  - fileID: 43
+    classID: 28
+    packedSize: 5592564
+    offset: 39131568
+    sourceAssetGUID: 56cd5ee792c7a8643bd64c8b7fa6d61d
+    buildTimeAssetPath: Assets/Quixel/Megascans/3D_Plants/Amaryllis_sgzkv/Textures/Billboard/Albedo_2K__sgzkv.png
+  - fileID: 44
+    classID: 28
+    packedSize: 56764
+    offset: 44724136
+    sourceAssetGUID: 5b83cfbfe3662af46a8e97a9e439f54b
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Images/ProTV_Logo_Square.png
+  - fileID: 45
+    classID: 28
+    packedSize: 1398276
+    offset: 44780904
+    sourceAssetGUID: 5e07d6e71c9ed3f409237935b1c7a96e
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/texture_matte/SampleAssetsSet_V1_phong1_Normal.png
+  - fileID: 46
+    classID: 28
+    packedSize: 349688
+    offset: 46179184
+    sourceAssetGUID: 623cf3841ba185e41bbc8ed9bf3c7019
+    buildTimeAssetPath: Assets/Scene/36 Questions/Lightmap-1_comp_dir.png
+  - fileID: 47
+    classID: 28
+    packedSize: 5592568
+    offset: 46528872
+    sourceAssetGUID: 69fbf9a2d97d25b449b38cab20666623
+    buildTimeAssetPath: Assets/Quixel/Megascans/Surfaces/Carpet_pgph1jp0/Textures/Masks_2K__pgph1jp0.png
+  - fileID: 48
+    classID: 28
+    packedSize: 2796376
+    offset: 52121440
+    sourceAssetGUID: 6d3a4716a21ee164eb4b89e692a0c95c
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/textures_mixed/SampleAssetsSet_V1_phong1_AlbedoTransparency.png
+  - fileID: 49
+    classID: 28
+    packedSize: 5592568
+    offset: 54917816
+    sourceAssetGUID: 6eeaac466045154488e40227f7a2eeb6
+    buildTimeAssetPath: Assets/Quixel/Megascans/Surfaces/Compost_tepnabbs/Textures/Normal_2K__tepnabbs.png
+  - fileID: 50
+    classID: 28
+    packedSize: 5592564
+    offset: 60510384
+    sourceAssetGUID: 82e9150e32360994d920159b0a5d7b33
+    buildTimeAssetPath: Assets/ArchViz Sofa Pack - Lite/Pillows/Textures/Pillows_normal.png
+  - fileID: 51
+    classID: 28
+    packedSize: 5592564
+    offset: 66102952
+    sourceAssetGUID: 85244d0991876c94ea9f4e08966e30b0
+    buildTimeAssetPath: Assets/Quixel/Megascans/3D_Plants/Amaryllis_sgzkv/Textures/Masks_2K__sgzkv.png
+  - fileID: 52
+    classID: 28
+    packedSize: 1398252
+    offset: 71695520
+    sourceAssetGUID: 8ac84e7855fe57b47b434741f1666dfe
+    buildTimeAssetPath: Assets/normals.jpg
+  - fileID: 53
+    classID: 28
+    packedSize: 2796352
+    offset: 73093776
+    sourceAssetGUID: 8c2aa84f2d1101d458fc6564e8185dbb
+    buildTimeAssetPath: Assets/Quixel/Megascans/Surfaces/Wall Paint_sj0jajtc/Textures/Albedo_2K__sj0jajtc.png
+  - fileID: 54
+    classID: 28
+    packedSize: 126992
+    offset: 75890128
+    sourceAssetGUID: 94539e7e21bb45845abfb01c223d3995
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Images/ProTV_Logo_16x9_SoundOnly.png
+  - fileID: 55
+    classID: 28
+    packedSize: 1398268
+    offset: 76017120
+    sourceAssetGUID: 947fb9bcdbd6eb644889907b44969ca1
+    buildTimeAssetPath: Assets/Scene/36 Questions/Lightmap-0_comp_light.exr
+  - fileID: 56
+    classID: 28
+    packedSize: 2796348
+    offset: 77415392
+    sourceAssetGUID: 9c0958405c6257041b3f71ae71d029c9
+    buildTimeAssetPath: Assets/ArchViz Sofa Pack - Lite/Textures/Cotton_albedo.png
+  - fileID: 57
+    classID: 28
+    packedSize: 5592564
+    offset: 80211744
+    sourceAssetGUID: a6b3f667ffbbba448b9b2b51ca893c36
+    buildTimeAssetPath: Assets/Quixel/Megascans/3D_Plants/Amaryllis_sgzkv/Textures/Billboard/Masks_2K__sgzkv.png
+  - fileID: 58
+    classID: 28
+    packedSize: 5592568
+    offset: 85804312
+    sourceAssetGUID: a6c7f23340c53bf499b258eb33eecd23
+    buildTimeAssetPath: Assets/Quixel/Megascans/3D_Assets/Clay Pot_ueilahthw/Textures/Masks_2K__ueilahthw.png
+  - fileID: 59
+    classID: 28
+    packedSize: 5592564
+    offset: 91396880
+    sourceAssetGUID: a900807d37c43a74587ab0f5fbfc7e82
+    buildTimeAssetPath: Assets/Quixel/Megascans/3D_Plants/Amaryllis_sgzkv/Textures/Normal_2K__sgzkv.png
+  - fileID: 60
+    classID: 28
+    packedSize: 5592568
+    offset: 96989448
+    sourceAssetGUID: a939f6113d426844fa0d49ffacdd4baf
+    buildTimeAssetPath: Assets/Quixel/Megascans/Surfaces/Wall Paint_sj0jajtc/Textures/Normal_2K__sj0jajtc.png
+  - fileID: 61
+    classID: 28
+    packedSize: 26364
+    offset: 102582016
+    sourceAssetGUID: a96dcbc361c749c47b3049e49cfda049
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Models/CurvedTVSet/Textures/Tv
+      Set_Tv Set_AlbedoTransparency.png
+  - fileID: 62
+    classID: 28
+    packedSize: 2796376
+    offset: 102608384
+    sourceAssetGUID: ab4e1feb84159f146bd1666598bad003
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/texture_matte/SampleAssetsSet_V1_phong1_AlbedoTransparency.png
+  - fileID: 63
+    classID: 28
+    packedSize: 699196
+    offset: 105404760
+    sourceAssetGUID: b2c2c1a52cdb75943958a408093dee04
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/GridFloor_udon.png
+  - fileID: 64
+    classID: 28
+    packedSize: 5592564
+    offset: 106103960
+    sourceAssetGUID: b46f1f619efabed4c817e9cfc1ef4693
+    buildTimeAssetPath: Assets/ArchViz Sofa Pack - Lite/Textures/Cotton_normal.png
+  - fileID: 65
+    classID: 28
+    packedSize: 1398288
+    offset: 111696528
+    sourceAssetGUID: b82ab2397d1e79e47a6f85d50ed6fa8f
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/textures_mixed/SampleAssetsSet_V1_phong1_MetallicSmoothness.png
+  - fileID: 66
+    classID: 28
+    packedSize: 5592564
+    offset: 113094816
+    sourceAssetGUID: ca5e3da8e4b1ab349916397a3a7ef762
+    buildTimeAssetPath: Assets/Quixel/Megascans/3D_Plants/Amaryllis_sgzkv/Textures/Albedo_2K__sgzkv.png
+  - fileID: 67
+    classID: 28
+    packedSize: 5592568
+    offset: 118687384
+    sourceAssetGUID: cb43b9e38e0bd1a4ca3035d8d60efe60
+    buildTimeAssetPath: Assets/Quixel/Megascans/Surfaces/Wall Paint_sj0jajtc/Textures/Masks_2K__sj0jajtc.png
+  - fileID: 68
+    classID: 28
+    packedSize: 102480
+    offset: 124279952
+    sourceAssetGUID: cf619a2b934b6954eba1be19ff97dc96
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Models/CurvedTVSet/Textures/Tv
+      Set_Tv Set_MetallicSmoothness.png
+  - fileID: 69
+    classID: 28
+    packedSize: 3888
+    offset: 124382432
+    sourceAssetGUID: d14b25a3428b69c4aa2b9abe7833d724
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Images/ProTV_Discord.png
+  - fileID: 70
+    classID: 28
+    packedSize: 90740
+    offset: 124386320
+    sourceAssetGUID: d6ae13c32a86c834f94b322a545ca8ef
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Images/ProTV_Logo_16x9.png
+  - fileID: 71
+    classID: 28
+    packedSize: 349676
+    offset: 124477064
+    sourceAssetGUID: db18f1e4d61f8cc439e35dfd023b6d3e
+    buildTimeAssetPath: Assets/Grass And Flowers Pack 1/Grass/Grass 3.png
+  - fileID: 72
+    classID: 28
+    packedSize: 5592568
+    offset: 124826744
+    sourceAssetGUID: de81bff16c657f14cb0aa615695baf0b
+    buildTimeAssetPath: Assets/Quixel/Megascans/Surfaces/Carpet_pgph1jp0/Textures/Normal_2K__pgph1jp0.png
+  - fileID: 73
+    classID: 28
+    packedSize: 128
+    offset: 130419312
+    sourceAssetGUID: e3265ab4bf004d28a9537516768c1c75
+    buildTimeAssetPath: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  - fileID: 74
+    classID: 28
+    packedSize: 349692
+    offset: 130419440
+    sourceAssetGUID: e32f85489e0e3a94185532a851350763
+    buildTimeAssetPath: Assets/Scene/36 Questions/Lightmap-1_comp_light.exr
+  - fileID: 75
+    classID: 28
+    packedSize: 5592568
+    offset: 130769136
+    sourceAssetGUID: eec49380ce57bfe40a13d5610e12162a
+    buildTimeAssetPath: Assets/Quixel/Megascans/Surfaces/Compost_tepnabbs/Textures/Masks_2K__tepnabbs.png
+  - fileID: 76
+    classID: 28
+    packedSize: 5592564
+    offset: 136361704
+    sourceAssetGUID: f155c4c7822874a459303a9dc089eab1
+    buildTimeAssetPath: Assets/ArchViz Sofa Pack - Lite/Textures/Cotton_metallic.png
+  - fileID: 77
+    classID: 28
+    packedSize: 13908
+    offset: 141954272
+    sourceAssetGUID: f59b015496eee7e478dceef8162c1177
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Images/ProTV_Group.png
+  - fileID: 78
+    classID: 28
+    packedSize: 1398252
+    offset: 141968184
+    sourceAssetGUID: f92d735c52356ae4b958e92b4d9bb76e
+    buildTimeAssetPath: Assets/OwnAssets/normals.jpg
+  - fileID: 79
+    classID: 28
+    packedSize: 2796352
+    offset: 143366440
+    sourceAssetGUID: fa55b1f782ad86647b4dd15b9d1d4ddf
+    buildTimeAssetPath: Assets/Quixel/Megascans/3D_Assets/Clay Pot_ueilahthw/Textures/Albedo_2K__ueilahthw.png
+  - fileID: 80
+    classID: 28
+    packedSize: 5592572
+    offset: 146162792
+    sourceAssetGUID: faf6c146777208449ae02e558097a0ce
+    buildTimeAssetPath: Assets/Quixel/Megascans/3D_Assets/Clay Pot_ueilahthw/Textures/Normal_2K_LOD0_ueilahthw.png
+  - fileID: 81
+    classID: 28
+    packedSize: 262284
+    offset: 151755368
+    sourceAssetGUID: 2e498d1c8094910479dc3e1b768306a4
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+      SDF - Fallback.asset
+  - fileID: 82
+    classID: 28
+    packedSize: 1048716
+    offset: 152017656
+    sourceAssetGUID: 8f586378b4e144a9851e7b34d9b748ee
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+      SDF.asset
+  - fileID: 83
+    classID: 28
+    packedSize: 1048716
+    offset: 153066376
+    sourceAssetGUID: b519371b370990c44a6e753ec694634c
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/LiberationSans
+      SDF.asset
+  - fileID: 84
+    classID: 28
+    packedSize: 1398228
+    offset: 154115096
+    sourceAssetGUID: c2df720ad2834314494756dd092878ec
+    buildTimeAssetPath: Assets/New Terrain 1.asset
+  - fileID: 85
+    classID: 43
+    packedSize: 538508
+    offset: 155513328
+    sourceAssetGUID: 0b080b7499bf5bb438e74550def81f58
+    buildTimeAssetPath: Assets/model.fbx
+  - fileID: 86
+    classID: 43
+    packedSize: 652076
+    offset: 156051840
+    sourceAssetGUID: d725e10f965540a4da489b432d444b7b
+    buildTimeAssetPath: Assets/OwnAssets/Table.fbx
+  - fileID: 87
+    classID: 43
+    packedSize: 248928
+    offset: 156703920
+    sourceAssetGUID: 9b465ee041c6cf343b8da69aabe04566
+    buildTimeAssetPath: Assets/Quixel/Megascans/3D_Assets/Clay Pot_ueilahthw/Models/Clay
+      Pot_LOD0__ueilahthw.fbx
+  - fileID: 88
+    classID: 43
+    packedSize: 54116
+    offset: 156952848
+    sourceAssetGUID: 8f50d4cd0cc098345b67bf92a2b7d813
+    buildTimeAssetPath: Assets/Quixel/Megascans/3D_Plants/Amaryllis_sgzkv/Models/Amaryllis_LOD2_Var6_sgzkv.fbx
+  - fileID: 89
+    classID: 43
+    packedSize: 26856
+    offset: 157006968
+    sourceAssetGUID: 6d082bae249020d4dbdc8fb8578d5424
+    buildTimeAssetPath: Assets/Quixel/Megascans/3D_Assets/Clay Pot_ueilahthw/Models/Clay
+      Pot_LOD4__ueilahthw.fbx
+  - fileID: 90
+    classID: 43
+    packedSize: 81004
+    offset: 157033824
+    sourceAssetGUID: 6c5919f2f0fadb14291cb0b542d5ba4b
+    buildTimeAssetPath: Assets/Quixel/Megascans/3D_Plants/Amaryllis_sgzkv/Models/Amaryllis_LOD1_Var6_sgzkv.fbx
+  - fileID: 91
+    classID: 43
+    packedSize: 3660
+    offset: 157114832
+    sourceAssetGUID: f6e810d70e09108479818b937b7aacab
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Models/CurvedTVSet/Tv
+      Set.fbx
+  - fileID: 92
+    classID: 43
+    packedSize: 4480
+    offset: 157118496
+    sourceAssetGUID: f6e810d70e09108479818b937b7aacab
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Models/CurvedTVSet/Tv
+      Set.fbx
+  - fileID: 93
+    classID: 43
+    packedSize: 21096
+    offset: 157122976
+    sourceAssetGUID: 6e1e22a487a6f4d42be5a2254e69ab1e
+    buildTimeAssetPath: Assets/ArchViz Sofa Pack - Lite/Pillows/Mesh/Mesh_Pillows.fbx
+  - fileID: 94
+    classID: 43
+    packedSize: 760
+    offset: 157144072
+    sourceAssetGUID: f6e810d70e09108479818b937b7aacab
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Models/CurvedTVSet/Tv
+      Set.fbx
+  - fileID: 95
+    classID: 43
+    packedSize: 4480
+    offset: 157144832
+    sourceAssetGUID: f6e810d70e09108479818b937b7aacab
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Models/CurvedTVSet/Tv
+      Set.fbx
+  - fileID: 96
+    classID: 43
+    packedSize: 520
+    offset: 157149312
+    sourceAssetGUID: f6e810d70e09108479818b937b7aacab
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Models/CurvedTVSet/Tv
+      Set.fbx
+  - fileID: 97
+    classID: 43
+    packedSize: 78288
+    offset: 157149832
+    sourceAssetGUID: 8019d91ecb6cc2840b836690ce25eaa7
+    buildTimeAssetPath: Assets/Quixel/Megascans/3D_Assets/Clay Pot_ueilahthw/Models/Clay
+      Pot_LOD2__ueilahthw.fbx
+  - fileID: 98
+    classID: 43
+    packedSize: 99688
+    offset: 157228120
+    sourceAssetGUID: 64322428e1e86424da8bca4704fd9132
+    buildTimeAssetPath: Assets/Quixel/Megascans/3D_Plants/Amaryllis_sgzkv/Models/Amaryllis_LOD0_Var6_sgzkv.fbx
+  - fileID: 99
+    classID: 43
+    packedSize: 12544
+    offset: 157327808
+    sourceAssetGUID: 41d3b05ba7a0a384590299fa148d685b
+    buildTimeAssetPath: Assets/Quixel/Megascans/3D_Assets/Clay Pot_ueilahthw/Models/Clay
+      Pot_LOD6__ueilahthw.fbx
+  - fileID: 100
+    classID: 43
+    packedSize: 716
+    offset: 157340352
+    sourceAssetGUID: 9436fb6ddff1c4e44ab0139cda944e48
+    buildTimeAssetPath: Assets/Quixel/Megascans/3D_Plants/Amaryllis_sgzkv/Models/Amaryllis_LOD3_Var6_sgzkv.fbx
+  - fileID: 101
+    classID: 48
+    packedSize: 18848
+    offset: 157341072
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 102
+    classID: 48
+    packedSize: 49164
+    offset: 157359920
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 103
+    classID: 48
+    packedSize: 233240
+    offset: 157409088
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 104
+    classID: 48
+    packedSize: 10256
+    offset: 157642328
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 105
+    classID: 48
+    packedSize: 296
+    offset: 157652584
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 106
+    classID: 48
+    packedSize: 60720
+    offset: 157652880
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 107
+    classID: 48
+    packedSize: 68332
+    offset: 157713600
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 108
+    classID: 48
+    packedSize: 57672
+    offset: 157781936
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 109
+    classID: 48
+    packedSize: 247356
+    offset: 157839608
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 110
+    classID: 48
+    packedSize: 102348
+    offset: 158086968
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 111
+    classID: 48
+    packedSize: 263496
+    offset: 158189320
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 112
+    classID: 48
+    packedSize: 4808
+    offset: 158452816
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 113
+    classID: 48
+    packedSize: 5192
+    offset: 158457624
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 114
+    classID: 48
+    packedSize: 6084
+    offset: 158462816
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 115
+    classID: 48
+    packedSize: 6576
+    offset: 158468904
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 116
+    classID: 48
+    packedSize: 7536
+    offset: 158475480
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 117
+    classID: 48
+    packedSize: 5588
+    offset: 158483016
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 118
+    classID: 48
+    packedSize: 5156
+    offset: 158488608
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 119
+    classID: 48
+    packedSize: 289712
+    offset: 158493768
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 120
+    classID: 48
+    packedSize: 278748
+    offset: 158783480
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 121
+    classID: 48
+    packedSize: 138540
+    offset: 159062232
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 122
+    classID: 48
+    packedSize: 11776
+    offset: 159200776
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 123
+    classID: 48
+    packedSize: 4220
+    offset: 159212552
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 124
+    classID: 48
+    packedSize: 19380
+    offset: 159216776
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 125
+    classID: 48
+    packedSize: 4496
+    offset: 159236160
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 126
+    classID: 48
+    packedSize: 4916
+    offset: 159240656
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 127
+    classID: 48
+    packedSize: 10180
+    offset: 159245576
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 128
+    classID: 48
+    packedSize: 5108
+    offset: 159255760
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 129
+    classID: 48
+    packedSize: 82312
+    offset: 159260872
+    sourceAssetGUID: 0b7113dea2069fc4e8943843eff19f70
+    buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Sample Assets/Shaders/Mobile/VRChat-Mobile-StandardLite.shader
+  - fileID: 130
+    classID: 48
+    packedSize: 9940
+    offset: 159343184
+    sourceAssetGUID: 2dcd9e0568e0a6f45b92c60ba2eb16a0
+    buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Sample Assets/Shaders/Mobile/VRChat-Mobile-Diffuse.shader
+  - fileID: 131
+    classID: 48
+    packedSize: 8392
+    offset: 159353128
+    sourceAssetGUID: 38d2be71b36142398c4d791645228f73
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Shaders/ProTVVideoScreen.shader
+  - fileID: 132
+    classID: 48
+    packedSize: 15040
+    offset: 159361520
+    sourceAssetGUID: 68e6db2ebdc24f95958faec2be5558d6
+    buildTimeAssetPath: Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+  - fileID: 133
+    classID: 48
+    packedSize: 7732
+    offset: 159376560
+    sourceAssetGUID: e21fadad3dbf61f4c8963f0ead664d94
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/Shaders/ProTVBlit.shader
+  - fileID: 134
+    classID: 48
+    packedSize: 11928
+    offset: 159384296
+    sourceAssetGUID: fe393ace9b354375a9cb14cdbbc28be4
+    buildTimeAssetPath: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+  - fileID: 135
+    classID: 49
+    packedSize: 17984
+    offset: 159396224
+    sourceAssetGUID: cb249e8f54efebf4a916d08e1caa9546
+    buildTimeAssetPath: Assets/Scripts/Questions.json
+  - fileID: 136
+    classID: 89
+    packedSize: 131444
+    offset: 159414208
+    sourceAssetGUID: 3a6f5f7e23ed2fe47986940e993b5b68
+    buildTimeAssetPath: Assets/Scene/36 Questions/ReflectionProbe-0.exr
+  - fileID: 137
+    classID: 115
+    packedSize: 120
+    offset: 141072
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 138
+    classID: 115
+    packedSize: 120
+    offset: 141192
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 139
+    classID: 115
+    packedSize: 92
+    offset: 141312
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 140
+    classID: 115
+    packedSize: 96
+    offset: 141408
+    sourceAssetGUID: 4ecd63eff847044b68db9453ce219299
+    buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Plugins/VRCCore-Editor.dll
+  - fileID: 141
+    classID: 115
+    packedSize: 116
+    offset: 141504
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 142
+    classID: 115
+    packedSize: 100
+    offset: 141624
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 143
+    classID: 115
+    packedSize: 108
+    offset: 141728
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 144
+    classID: 115
+    packedSize: 92
+    offset: 141840
+    sourceAssetGUID: 0cd44c1031e13a943bb63640046fad76
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Layout/CanvasScaler.cs
+  - fileID: 145
+    classID: 115
+    packedSize: 84
+    offset: 141936
+    sourceAssetGUID: 0d0b652f32a2cc243917e4028fa0f046
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Dropdown.cs
+  - fileID: 146
+    classID: 115
+    packedSize: 84
+    offset: 142024
+    sourceAssetGUID: 1344c3c82d62a2a41a3576d8abb8e3ea
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/RawImage.cs
+  - fileID: 147
+    classID: 115
+    packedSize: 92
+    offset: 142112
+    sourceAssetGUID: 1aa08ab6e0800fa44ae55d278d1423e3
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/ScrollRect.cs
+  - fileID: 148
+    classID: 115
+    packedSize: 92
+    offset: 142208
+    sourceAssetGUID: 2a4db7a114972834c8e4117be1d82ba3
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Scrollbar.cs
+  - fileID: 149
+    classID: 115
+    packedSize: 76
+    offset: 142304
+    sourceAssetGUID: 31a19414c41e5ae4aae2af33fee712f6
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Mask.cs
+  - fileID: 150
+    classID: 115
+    packedSize: 84
+    offset: 142384
+    sourceAssetGUID: 45115577ef41a5b4ca741ed302693907
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/Udon/UdonBehaviour.cs
+  - fileID: 151
+    classID: 115
+    packedSize: 84
+    offset: 142472
+    sourceAssetGUID: 4e29b1a8efbd4b44bb3f3716e73f07ff
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Button.cs
+  - fileID: 152
+    classID: 115
+    packedSize: 76
+    offset: 142560
+    sourceAssetGUID: 5f7201a12d95ffc409449d95f23cf332
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Text.cs
+  - fileID: 153
+    classID: 115
+    packedSize: 84
+    offset: 142640
+    sourceAssetGUID: 67db9e8f0e2ae9c40bc1e2b64352a6b4
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Slider.cs
+  - fileID: 154
+    classID: 115
+    packedSize: 96
+    offset: 142728
+    sourceAssetGUID: 71c1514a6bd24e1e882cebbe1904ce04
+    buildTimeAssetPath: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAsset.cs
+  - fileID: 155
+    classID: 115
+    packedSize: 84
+    offset: 142824
+    sourceAssetGUID: 9085046f02f69544eb97fd06b6048fe2
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Toggle.cs
+  - fileID: 156
+    classID: 115
+    packedSize: 124
+    offset: 142912
+    sourceAssetGUID: bf61d954ecb803046953c666facfb904
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/Udon/ProgramSources/SerializedUdonProgramAsset.cs
+  - fileID: 157
+    classID: 115
+    packedSize: 92
+    offset: 143040
+    sourceAssetGUID: d199490a83bb2b844b9695cbf13b01ef
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/InputField.cs
+  - fileID: 158
+    classID: 115
+    packedSize: 100
+    offset: 143136
+    sourceAssetGUID: dc42784cf147c0c48a680349fa168899
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/GraphicRaycaster.cs
+  - fileID: 159
+    classID: 115
+    packedSize: 96
+    offset: 143240
+    sourceAssetGUID: f4688fdb7df04437aeb418b961361dc5
+    buildTimeAssetPath: Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshProUGUI.cs
+  - fileID: 160
+    classID: 115
+    packedSize: 84
+    offset: 143336
+    sourceAssetGUID: fe87c0e1cc204ed48ad3b37840f39efc
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Image.cs
+  - fileID: 161
+    classID: 115
+    packedSize: 120
+    offset: 143424
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 162
+    classID: 128
+    packedSize: 352462
+    offset: 159545656
+    sourceAssetGUID: e3265ab4bf004d28a9537516768c1c75
+    buildTimeAssetPath: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  - fileID: 163
+    classID: 213
+    packedSize: 568
+    offset: 159898120
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 164
+    classID: 213
+    packedSize: 516
+    offset: 159898688
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 165
+    classID: 213
+    packedSize: 2996
+    offset: 159899208
+    sourceAssetGUID: 00e0f06bf2abb124c93e3b4ecf0bda24
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_www.png
+  - fileID: 166
+    classID: 213
+    packedSize: 672
+    offset: 159902208
+    sourceAssetGUID: 02a4e51b74123324db8b1db398212d20
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_plus.png
+  - fileID: 167
+    classID: 213
+    packedSize: 988
+    offset: 159902880
+    sourceAssetGUID: 1532ebe1028d83748967971ae66414f9
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_waypoint.png
+  - fileID: 168
+    classID: 213
+    packedSize: 1732
+    offset: 159903872
+    sourceAssetGUID: 1697a18316a63c247b78c5f708b80dd9
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_3dwidthhalf.png
+  - fileID: 169
+    classID: 213
+    packedSize: 1304
+    offset: 159905608
+    sourceAssetGUID: 18c7c95654c3f6842a4dea301fc4564e
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_volume_mid.png
+  - fileID: 170
+    classID: 213
+    packedSize: 620
+    offset: 159906912
+    sourceAssetGUID: 191dd906561af3541a230a19d86144c3
+    buildTimeAssetPath: Packages/dev.architech.protv.extras/Resources/Themes/Retro/retro_volumelow.png
+  - fileID: 171
+    classID: 213
+    packedSize: 940
+    offset: 159907536
+    sourceAssetGUID: 1a39e4f4b8100d24ab58865d9e4d0e1a
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_arrow_double.png
+  - fileID: 172
+    classID: 213
+    packedSize: 1452
+    offset: 159908480
+    sourceAssetGUID: 1d1e4114aa0106746b1b2e2a7d392690
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_arrow_spin.png
+  - fileID: 173
+    classID: 213
+    packedSize: 1048
+    offset: 159909936
+    sourceAssetGUID: 1e20ed2e8cb6ccd4682e7dfbb4ad9d43
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_menu.png
+  - fileID: 174
+    classID: 213
+    packedSize: 1676
+    offset: 159910984
+    sourceAssetGUID: 21235ca3bc28a994bb39983987e5ec74
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_link.png
+  - fileID: 175
+    classID: 213
+    packedSize: 1060
+    offset: 159912664
+    sourceAssetGUID: 24aee5808fa9c8a47bcc7adc85a0d7ec
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_arrow_loop.png
+  - fileID: 176
+    classID: 213
+    packedSize: 676
+    offset: 159913728
+    sourceAssetGUID: 28f10292b85333a4093d63d6c55de696
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_close.png
+  - fileID: 177
+    classID: 213
+    packedSize: 1068
+    offset: 159914408
+    sourceAssetGUID: 2e5ac2020cff4774fa7b636f8f39589e
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_information.png
+  - fileID: 178
+    classID: 213
+    packedSize: 1200
+    offset: 159915480
+    sourceAssetGUID: 30bf3be3e67dd4541a7ffe6c46655b98
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_mask_circle.png
+  - fileID: 179
+    classID: 213
+    packedSize: 1856
+    offset: 159916680
+    sourceAssetGUID: 33b1200dc838754498c32d6508f161c9
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_music_off.png
+  - fileID: 180
+    classID: 213
+    packedSize: 640
+    offset: 159918536
+    sourceAssetGUID: 369cf826f5336b948967b1a6b1e58c27
+    buildTimeAssetPath: Packages/dev.architech.protv.extras/Resources/Themes/Retro/retro_menu.png
+  - fileID: 181
+    classID: 213
+    packedSize: 1016
+    offset: 159919176
+    sourceAssetGUID: 374d366671c3235438f9efc9af92633a
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_gear.png
+  - fileID: 182
+    classID: 213
+    packedSize: 608
+    offset: 159920192
+    sourceAssetGUID: 376282b3bad57334cb4a4fff4fb2730d
+    buildTimeAssetPath: Packages/dev.architech.protv.extras/Resources/Themes/Retro/retro_plus.png
+  - fileID: 183
+    classID: 213
+    packedSize: 884
+    offset: 159920800
+    sourceAssetGUID: 3c345559a52a29d46a4453dcbb4ee61c
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_share.png
+  - fileID: 184
+    classID: 213
+    packedSize: 628
+    offset: 159921688
+    sourceAssetGUID: 3e3591d8b03abeb4b8c9b289fe200312
+    buildTimeAssetPath: Packages/dev.architech.protv.extras/Resources/Themes/Retro/retro_volumehigh.png
+  - fileID: 185
+    classID: 213
+    packedSize: 648
+    offset: 159922320
+    sourceAssetGUID: 3fa2735c7eb249c488b5e4f1f2b2fe1a
+    buildTimeAssetPath: Packages/dev.architech.protv.extras/Resources/Themes/Retro/retro_unlock.png
+  - fileID: 186
+    classID: 213
+    packedSize: 660
+    offset: 159922968
+    sourceAssetGUID: 436856dc01ecd7d40870fb2e7fe8cbc6
+    buildTimeAssetPath: Packages/dev.architech.protv.extras/Resources/Themes/Retro/retro_volumemid.png
+  - fileID: 187
+    classID: 213
+    packedSize: 840
+    offset: 159923632
+    sourceAssetGUID: 46ccd97705f002046827828ca9845891
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_previous.png
+  - fileID: 188
+    classID: 213
+    packedSize: 748
+    offset: 159924472
+    sourceAssetGUID: 48b14a9eee9e86242a4f30ad08bfb6f5
+    buildTimeAssetPath: Packages/dev.architech.protv.extras/Resources/Themes/Retro/retro_sync.png
+  - fileID: 189
+    classID: 213
+    packedSize: 596
+    offset: 159925224
+    sourceAssetGUID: 4ba9c50c13be72b4290c5d5b09169d22
+    buildTimeAssetPath: Packages/dev.architech.protv.extras/Resources/Themes/Retro/retro_minus.png
+  - fileID: 190
+    classID: 213
+    packedSize: 752
+    offset: 159925824
+    sourceAssetGUID: 4c7e870d07397234f8a017e11e71da3b
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_arrow_diagonal.png
+  - fileID: 191
+    classID: 213
+    packedSize: 616
+    offset: 159926576
+    sourceAssetGUID: 53a4b624b59e97544814d10ee889a111
+    buildTimeAssetPath: Packages/dev.architech.protv.extras/Resources/Themes/Retro/retro_lock.png
+  - fileID: 192
+    classID: 213
+    packedSize: 1220
+    offset: 159927192
+    sourceAssetGUID: 566bc536c212f3742a54eb85fd171f18
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_headphone.png
+  - fileID: 193
+    classID: 213
+    packedSize: 1080
+    offset: 159928416
+    sourceAssetGUID: 57ded7ab267a09741b7bc0572f9089ea
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_music_on.png
+  - fileID: 194
+    classID: 213
+    packedSize: 1768
+    offset: 159929496
+    sourceAssetGUID: 60d0daa1d033b3e478f9571c15c552c2
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_volume_high.png
+  - fileID: 195
+    classID: 213
+    packedSize: 580
+    offset: 159931264
+    sourceAssetGUID: 64b2fc0b9d5eb2a4fbe3254683250246
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_minus.png
+  - fileID: 196
+    classID: 213
+    packedSize: 732
+    offset: 159931848
+    sourceAssetGUID: 6593fc1d84955e0409ba09892bc57cde
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_label.png
+  - fileID: 197
+    classID: 213
+    packedSize: 608
+    offset: 159932584
+    sourceAssetGUID: 65984ad5b6925024b8a3e1636c6995f0
+    buildTimeAssetPath: Packages/dev.architech.protv.extras/Resources/Themes/Retro/retro_arrow.png
+  - fileID: 198
+    classID: 213
+    packedSize: 1012
+    offset: 159933192
+    sourceAssetGUID: 67223e039534cb146913c0c343932a65
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_download.png
+  - fileID: 199
+    classID: 213
+    packedSize: 548
+    offset: 159934208
+    sourceAssetGUID: 6854ae1bffd369047ad53229843eddca
+    buildTimeAssetPath: Packages/dev.architech.protv.extras/Resources/Themes/Retro/retro_thumb.png
+  - fileID: 200
+    classID: 213
+    packedSize: 672
+    offset: 159934760
+    sourceAssetGUID: 68d9ea961b1798e4b957dda96694e43f
+    buildTimeAssetPath: Packages/dev.architech.protv.extras/Resources/Themes/Retro/retro_trash.png
+  - fileID: 201
+    classID: 213
+    packedSize: 624
+    offset: 159935432
+    sourceAssetGUID: 6d152e804b299d1439f566a86df80b6f
+    buildTimeAssetPath: Packages/dev.architech.protv.extras/Resources/Themes/Retro/retro_play.png
+  - fileID: 202
+    classID: 213
+    packedSize: 616
+    offset: 159936056
+    sourceAssetGUID: 7afaab279ebb15f4b996c57d126e5617
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_camera_video.png
+  - fileID: 203
+    classID: 213
+    packedSize: 892
+    offset: 159936672
+    sourceAssetGUID: 7c227ea44cfccb8408585aac2d53f54c
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_home.png
+  - fileID: 204
+    classID: 213
+    packedSize: 1900
+    offset: 159937568
+    sourceAssetGUID: 7d79f67e26ecc9c47ac0e11573f6d90f
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_list.png
+  - fileID: 205
+    classID: 213
+    packedSize: 912
+    offset: 159939472
+    sourceAssetGUID: 850c2763995331747b5cd1fd2dda41e9
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_sliders.png
+  - fileID: 206
+    classID: 213
+    packedSize: 980
+    offset: 159940384
+    sourceAssetGUID: 87fb4adca8f753e4fa1a744be41fb40d
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_chevron_double.png
+  - fileID: 207
+    classID: 213
+    packedSize: 960
+    offset: 159941368
+    sourceAssetGUID: 95cd5a1abb0d489419b6ab9d7e5db2a9
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_lock_closed.png
+  - fileID: 208
+    classID: 213
+    packedSize: 752
+    offset: 159942328
+    sourceAssetGUID: 9b89f843134267f43a3f55edab76179a
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_send.png
+  - fileID: 209
+    classID: 213
+    packedSize: 872
+    offset: 159943080
+    sourceAssetGUID: 9ca135e4b19996e4c94869d682461aef
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_checkmark.png
+  - fileID: 210
+    classID: 213
+    packedSize: 684
+    offset: 159943952
+    sourceAssetGUID: a1ef5db22182cb6428786a509a9c1649
+    buildTimeAssetPath: Packages/dev.architech.protv.extras/Resources/Themes/Retro/retro_headphones.png
+  - fileID: 211
+    classID: 213
+    packedSize: 1128
+    offset: 159944640
+    sourceAssetGUID: a31c7748a9b3a0e40ab38b84ebbf0364
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_arrow_doubleloop.png
+  - fileID: 212
+    classID: 213
+    packedSize: 700
+    offset: 159945768
+    sourceAssetGUID: a93ee5f60463399418402f0a32881596
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_graph_exponential.png
+  - fileID: 213
+    classID: 213
+    packedSize: 944
+    offset: 159946472
+    sourceAssetGUID: aca982d1b9c097a45816719c08ef2f7e
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_lock_open.png
+  - fileID: 214
+    classID: 213
+    packedSize: 528
+    offset: 159947416
+    sourceAssetGUID: b0eae3148ca2d3842ae4a93e55366826
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_stop.png
+  - fileID: 215
+    classID: 213
+    packedSize: 620
+    offset: 159947944
+    sourceAssetGUID: b140b88491809884684fa968e20b676e
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_graph_linear.png
+  - fileID: 216
+    classID: 213
+    packedSize: 888
+    offset: 159948568
+    sourceAssetGUID: b292185c0dbaeb747a9e86348e0e5c3e
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_volume_off.png
+  - fileID: 217
+    classID: 213
+    packedSize: 908
+    offset: 159949456
+    sourceAssetGUID: b54524306c7ab234d8aea49f9389c38d
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_arrow_single.png
+  - fileID: 218
+    classID: 213
+    packedSize: 2164
+    offset: 159950368
+    sourceAssetGUID: b8d461c48d026374391bb44790a7e29c
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_link_broken.png
+  - fileID: 219
+    classID: 213
+    packedSize: 656
+    offset: 159952536
+    sourceAssetGUID: bca6dd8d258a49a4ebb2a50b714554d2
+    buildTimeAssetPath: Packages/dev.architech.protv.extras/Resources/Themes/Retro/retro_mute.png
+  - fileID: 220
+    classID: 213
+    packedSize: 604
+    offset: 159953192
+    sourceAssetGUID: c00b479e76f8f8749be23fd412e94a3d
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_play.png
+  - fileID: 221
+    classID: 213
+    packedSize: 604
+    offset: 159953800
+    sourceAssetGUID: c21ad7bad6ac832419447624610b5f4c
+    buildTimeAssetPath: Packages/dev.architech.protv.extras/Resources/Themes/Retro/retro_stop.png
+  - fileID: 222
+    classID: 213
+    packedSize: 612
+    offset: 159954408
+    sourceAssetGUID: c334a8935291fb8458385bea9759be5e
+    buildTimeAssetPath: Packages/dev.architech.protv.extras/Resources/Themes/Retro/retro_pause.png
+  - fileID: 223
+    classID: 213
+    packedSize: 632
+    offset: 159955024
+    sourceAssetGUID: c5328dd3eb621ab4597f717c1e00828d
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_chevron.png
+  - fileID: 224
+    classID: 213
+    packedSize: 908
+    offset: 159955656
+    sourceAssetGUID: d0f829b32fa796e4489a37783db82512
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_volume_low.png
+  - fileID: 225
+    classID: 213
+    packedSize: 552
+    offset: 159956568
+    sourceAssetGUID: d554d7f891aa4574fa8f084217101930
+    buildTimeAssetPath: Packages/dev.architech.protv.extras/Resources/Themes/Retro/retro_loading.png
+  - fileID: 226
+    classID: 213
+    packedSize: 816
+    offset: 159957120
+    sourceAssetGUID: d70ecbac36f14e944992845f708dac95
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_trash.png
+  - fileID: 227
+    classID: 213
+    packedSize: 884
+    offset: 159957936
+    sourceAssetGUID: dbc37e4c15ed4754e898e01620db6257
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_next.png
+  - fileID: 228
+    classID: 213
+    packedSize: 628
+    offset: 159958824
+    sourceAssetGUID: ddbec7b5899d6984fa1a13e5891b85b2
+    buildTimeAssetPath: Packages/dev.architech.protv.extras/Resources/Themes/Retro/retro_checkmark.png
+  - fileID: 229
+    classID: 213
+    packedSize: 1704
+    offset: 159959456
+    sourceAssetGUID: de2f5df3e7a870c40a08095eff436651
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_3dwidthfull.png
+  - fileID: 230
+    classID: 213
+    packedSize: 716
+    offset: 159961160
+    sourceAssetGUID: df55389e97d3cd24a80b73a0d156bfb5
+    buildTimeAssetPath: Packages/dev.architech.protv.extras/Resources/Themes/Retro/retro_arrowdouble.png
+  - fileID: 231
+    classID: 213
+    packedSize: 688
+    offset: 159961880
+    sourceAssetGUID: e02522a4ac747434c8e54d33190207e4
+    buildTimeAssetPath: Packages/dev.architech.protv.extras/Resources/Themes/Retro/retro_reload.png
+  - fileID: 232
+    classID: 213
+    packedSize: 780
+    offset: 159962568
+    sourceAssetGUID: f445dd123df9a7b46a5995dd69691819
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_pause.png
+  - fileID: 233
+    classID: 213
+    packedSize: 1196
+    offset: 159963352
+    sourceAssetGUID: f6225244deff3694eb5ff6a34082db5f
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/plain_volume_mute.png
+  - fileID: 234
+    classID: 213
+    packedSize: 444
+    offset: 159964552
+    sourceAssetGUID: fd19545cf88e09b41936e95a96a198d3
+    buildTimeAssetPath: Packages/dev.architech.protv.extras/Resources/Themes/Retro/retro_button.png
+  - fileID: 235
+    classID: 213
+    packedSize: 452
+    offset: 159965000
+    sourceAssetGUID: ffb07229ea989cf4587e9b54a0ec625b
+    buildTimeAssetPath: Packages/dev.architech.protv.extras/Resources/Themes/Retro/retro_button_pushed.png
+  - fileID: 236
+    classID: 258
+    packedSize: 40
+    offset: 159965456
+    sourceAssetGUID: 2a04028833c14364c97969a05d8ceae1
+    buildTimeAssetPath: Assets/Scene/36 Questions/LightingData.asset
+  - fileID: 237
+    classID: 687078895
+    packedSize: 3216
+    offset: 159965496
+    sourceAssetGUID: 7210fb85bf6a3474e9b0b98e3cfd0211
+    buildTimeAssetPath: Packages/dev.architech.protv.extras/Resources/Themes/Retro/atlas_retro.spriteatlas
+  - fileID: 238
+    classID: 687078895
+    packedSize: 6772
+    offset: 159968712
+    sourceAssetGUID: 35336aaf761d21645b0cccaa324ea2c1
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/Icons/atlas_plain.spriteatlas
+  - fileID: 239
+    classID: 1953259897
+    packedSize: 184
+    offset: 159975488
+    sourceAssetGUID: 365ab6e5f6a2d6b44846543cdd4c0f2f
+    buildTimeAssetPath: Assets/_TerrainAutoUpgrade/layer_Grass01_BigUVd261c09ae55ba1e3.terrainlayer
+  - fileID: 240
+    classID: 114
+    packedSize: 13960
+    offset: 159975672
+    sourceAssetGUID: ff6aeedfc62558c439136283c24339a4
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/271473fa6da89404181a3a567bbc3cc1.asset
+  - fileID: 241
+    classID: 114
+    packedSize: 1428
+    offset: 159989632
+    sourceAssetGUID: 8a76a951878a0904798814e61ebfbf8b
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/36b5cf9ca0be239449c65e1dd830b690.asset
+  - fileID: 242
+    classID: 114
+    packedSize: 28048
+    offset: 159991064
+    sourceAssetGUID: 7f854ee600da25b44b9303569e0098ef
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/4441ca2fa614aad4b82e0296e1fc8af5.asset
+  - fileID: 243
+    classID: 114
+    packedSize: 7096
+    offset: 160019112
+    sourceAssetGUID: c8dc0b0e78144ac4eb7e1480d6eb2c2a
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/495a12e49c928894c901d5f1e924f6bb.asset
+  - fileID: 244
+    classID: 114
+    packedSize: 54516
+    offset: 160026208
+    sourceAssetGUID: 317fe6cbed7e29c4781e46a507ea0d9a
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/4ac0e45cbc1ff924e9b1cb9555e51afb.asset
+  - fileID: 245
+    classID: 114
+    packedSize: 2828
+    offset: 160080728
+    sourceAssetGUID: c50e710810c249c4aa753e9d2b331414
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/566cc00e27d5822449529a3785eae366.asset
+  - fileID: 246
+    classID: 114
+    packedSize: 1448
+    offset: 160083560
+    sourceAssetGUID: 4ff58c1feedacc7469cac90fe85f880a
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/6a5c9652eb530604182df020bff08d15.asset
+  - fileID: 247
+    classID: 114
+    packedSize: 1448
+    offset: 160085008
+    sourceAssetGUID: 80cc84edba2f13742a1063a746ca15a5
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/6b4bde52ddc9eb4449a5fa1e8b689af6.asset
+  - fileID: 248
+    classID: 114
+    packedSize: 87944
+    offset: 160086456
+    sourceAssetGUID: 1850f293a19fe994cb465d4a6dd95e94
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/758b3974dc10ae445a6ce060183f4682.asset
+  - fileID: 249
+    classID: 114
+    packedSize: 1456
+    offset: 160174400
+    sourceAssetGUID: 976a9909d1245134099d98d12e3496ed
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/8a4eaf9aea5c40e40891ef57bd385306.asset
+  - fileID: 250
+    classID: 114
+    packedSize: 1448
+    offset: 160175856
+    sourceAssetGUID: 594dbee153fafa34685e89fe5cd36ec0
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/90d9d7979ff83ea40906b73a4894996d.asset
+  - fileID: 251
+    classID: 114
+    packedSize: 5936
+    offset: 160177304
+    sourceAssetGUID: 21c09d6dab6fd484dab9f056442f9d31
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/9368c560958073c4e8b24c18d3d757de.asset
+  - fileID: 252
+    classID: 114
+    packedSize: 1648
+    offset: 160183240
+    sourceAssetGUID: e4aa66d63f589b441828d00721b75bb2
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/c8df303ceb45ae84f85a11591f741734.asset
+  - fileID: 253
+    classID: 114
+    packedSize: 10792
+    offset: 160184888
+    sourceAssetGUID: 3082fa52fa47b8e4d9a510bbec2dbd5b
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/fc521efc501538e4fbe0643d57d6d83a.asset
+  - fileID: 254
+    classID: 114
+    packedSize: 5004
+    offset: 160195680
+    sourceAssetGUID: 2e498d1c8094910479dc3e1b768306a4
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+      SDF - Fallback.asset
+  - fileID: 255
+    classID: 114
+    packedSize: 28764
+    offset: 160200688
+    sourceAssetGUID: 8f586378b4e144a9851e7b34d9b748ee
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+      SDF.asset
+  - fileID: 256
+    classID: 114
+    packedSize: 28764
+    offset: 160229456
+    sourceAssetGUID: b519371b370990c44a6e753ec694634c
+    buildTimeAssetPath: Packages/dev.architech.protv/Resources/UI/LiberationSans
+      SDF.asset
+  - fileID: 257
+    classID: 156
+    packedSize: 1564984
+    offset: 160258224
+    sourceAssetGUID: c2df720ad2834314494756dd092878ec
+    buildTimeAssetPath: Assets/New Terrain 1.asset
+--- !u!1126 &-3173071076318931257
 PackedAssets:
   m_ShortPath: CAB-25c93ffae45412888480bc73e10e120c
   m_Overhead: 4032
@@ -17,438 +1601,6 @@ PackedAssets:
     offset: 4136
     sourceAssetGUID: 00000000000000000000000000000000
     buildTimeAssetPath: 'Built-in AssetBundleManifest: AssetBundleManifest'
---- !u!1126 &-3175790940818038440
-PackedAssets:
-  m_ShortPath: BuildPlayer-36 Questions.sharedAssets
-  m_Overhead: 155877
-  m_Contents:
-  - fileID: 1
-    classID: 150
-    packedSize: 85
-    offset: 157424
-    sourceAssetGUID: 00000000000000000000000000000000
-    buildTimeAssetPath: 
-  - fileID: 2
-    classID: 142
-    packedSize: 160
-    offset: 157512
-    sourceAssetGUID: 00000000000000000000000000000000
-    buildTimeAssetPath: 
-  - fileID: 3
-    classID: 21
-    packedSize: 268
-    offset: 157672
-    sourceAssetGUID: 0000000000000000f000000000000000
-    buildTimeAssetPath: Resources/unity_builtin_extra
-  - fileID: 4
-    classID: 21
-    packedSize: 936
-    offset: 157944
-    sourceAssetGUID: fd20e45036ef323459e8286e9c23c02c
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Materials/GridFloor_udon.mat
-  - fileID: 5
-    classID: 21
-    packedSize: 980
-    offset: 158880
-    sourceAssetGUID: 1c987494452b85f4ab4cac3322415907
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Materials/SampleAssets_matte.mat
-  - fileID: 6
-    classID: 21
-    packedSize: 980
-    offset: 159864
-    sourceAssetGUID: 5bec13570cd015140a051a07a3c55af5
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Materials/SampleAssets_mixed.mat
-  - fileID: 7
-    classID: 21
-    packedSize: 148
-    offset: 160848
-    sourceAssetGUID: e3265ab4bf004d28a9537516768c1c75
-    buildTimeAssetPath: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
-  - fileID: 8
-    classID: 21
-    packedSize: 2016
-    offset: 161000
-    sourceAssetGUID: 2e498d1c8094910479dc3e1b768306a4
-    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
-      SDF - Fallback.asset
-  - fileID: 9
-    classID: 21
-    packedSize: 956
-    offset: 163016
-    sourceAssetGUID: 8f586378b4e144a9851e7b34d9b748ee
-    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
-      SDF.asset
-  - fileID: 10
-    classID: 28
-    packedSize: 5584
-    offset: 163976
-    sourceAssetGUID: 0000000000000000f000000000000000
-    buildTimeAssetPath: Resources/unity_builtin_extra
-  - fileID: 11
-    classID: 28
-    packedSize: 5588
-    offset: 169560
-    sourceAssetGUID: 0000000000000000f000000000000000
-    buildTimeAssetPath: Resources/unity_builtin_extra
-  - fileID: 12
-    classID: 28
-    packedSize: 5596
-    offset: 175152
-    sourceAssetGUID: 0000000000000000f000000000000000
-    buildTimeAssetPath: Resources/unity_builtin_extra
-  - fileID: 13
-    classID: 28
-    packedSize: 29024
-    offset: 180752
-    sourceAssetGUID: 08e3438278f26f645b75dfb507327962
-    buildTimeAssetPath: Assets/753network/DiscordFeedbackForm/_resources/discord
-      logo.png
-  - fileID: 14
-    classID: 28
-    packedSize: 1398264
-    offset: 209776
-    sourceAssetGUID: 12141eed5c9d46b4586f26b1aa2db27d
-    buildTimeAssetPath: Assets/Scene/36 Questions/Lightmap-0_comp_dir.png
-  - fileID: 15
-    classID: 28
-    packedSize: 1398288
-    offset: 1608040
-    sourceAssetGUID: 4ba9f24739c8721499ae85110ba2157d
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/texture_matte/SampleAssetsSet_V1_phong1_MetallicSmoothness.png
-  - fileID: 16
-    classID: 28
-    packedSize: 1398276
-    offset: 3006328
-    sourceAssetGUID: 559d1fda9b459bc43a0b78d7fbe50b00
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/textures_mixed/SampleAssetsSet_V1_phong1_Normal.png
-  - fileID: 17
-    classID: 28
-    packedSize: 1398276
-    offset: 4404608
-    sourceAssetGUID: 5e07d6e71c9ed3f409237935b1c7a96e
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/texture_matte/SampleAssetsSet_V1_phong1_Normal.png
-  - fileID: 18
-    classID: 28
-    packedSize: 349688
-    offset: 5802888
-    sourceAssetGUID: 623cf3841ba185e41bbc8ed9bf3c7019
-    buildTimeAssetPath: Assets/Scene/36 Questions/Lightmap-1_comp_dir.png
-  - fileID: 19
-    classID: 28
-    packedSize: 2796376
-    offset: 6152576
-    sourceAssetGUID: 6d3a4716a21ee164eb4b89e692a0c95c
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/textures_mixed/SampleAssetsSet_V1_phong1_AlbedoTransparency.png
-  - fileID: 20
-    classID: 28
-    packedSize: 1398268
-    offset: 8948952
-    sourceAssetGUID: 947fb9bcdbd6eb644889907b44969ca1
-    buildTimeAssetPath: Assets/Scene/36 Questions/Lightmap-0_comp_light.exr
-  - fileID: 21
-    classID: 28
-    packedSize: 2796376
-    offset: 10347224
-    sourceAssetGUID: ab4e1feb84159f146bd1666598bad003
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/texture_matte/SampleAssetsSet_V1_phong1_AlbedoTransparency.png
-  - fileID: 22
-    classID: 28
-    packedSize: 699196
-    offset: 13143600
-    sourceAssetGUID: b2c2c1a52cdb75943958a408093dee04
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/GridFloor_udon.png
-  - fileID: 23
-    classID: 28
-    packedSize: 1398288
-    offset: 13842800
-    sourceAssetGUID: b82ab2397d1e79e47a6f85d50ed6fa8f
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/Textures/textures_mixed/SampleAssetsSet_V1_phong1_MetallicSmoothness.png
-  - fileID: 24
-    classID: 28
-    packedSize: 128
-    offset: 15241088
-    sourceAssetGUID: e3265ab4bf004d28a9537516768c1c75
-    buildTimeAssetPath: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
-  - fileID: 25
-    classID: 28
-    packedSize: 349692
-    offset: 15241216
-    sourceAssetGUID: e32f85489e0e3a94185532a851350763
-    buildTimeAssetPath: Assets/Scene/36 Questions/Lightmap-1_comp_light.exr
-  - fileID: 26
-    classID: 28
-    packedSize: 140
-    offset: 15590912
-    sourceAssetGUID: 2e498d1c8094910479dc3e1b768306a4
-    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
-      SDF - Fallback.asset
-  - fileID: 27
-    classID: 28
-    packedSize: 1048716
-    offset: 15591056
-    sourceAssetGUID: 8f586378b4e144a9851e7b34d9b748ee
-    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
-      SDF.asset
-  - fileID: 28
-    classID: 43
-    packedSize: 19636
-    offset: 16639776
-    sourceAssetGUID: 70108d78e82c2ec488d6b504865508e0
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/SampleAssetsSet/SampleAssetsSet_V1.fbx
-  - fileID: 29
-    classID: 48
-    packedSize: 17324
-    offset: 16659416
-    sourceAssetGUID: 0000000000000000f000000000000000
-    buildTimeAssetPath: Resources/unity_builtin_extra
-  - fileID: 30
-    classID: 48
-    packedSize: 129336
-    offset: 16676744
-    sourceAssetGUID: 0000000000000000f000000000000000
-    buildTimeAssetPath: Resources/unity_builtin_extra
-  - fileID: 31
-    classID: 48
-    packedSize: 10256
-    offset: 16806080
-    sourceAssetGUID: 0000000000000000f000000000000000
-    buildTimeAssetPath: Resources/unity_builtin_extra
-  - fileID: 32
-    classID: 48
-    packedSize: 11928
-    offset: 16816336
-    sourceAssetGUID: fe393ace9b354375a9cb14cdbbc28be4
-    buildTimeAssetPath: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
-  - fileID: 33
-    classID: 74
-    packedSize: 3452
-    offset: 16828264
-    sourceAssetGUID: c189fb6c38490c7428aa3d10e153f3ee
-    buildTimeAssetPath: Assets/753network/DiscordFeedbackForm/_resources/SubmitAndShrink.anim
-  - fileID: 34
-    classID: 89
-    packedSize: 131444
-    offset: 16831720
-    sourceAssetGUID: 3a6f5f7e23ed2fe47986940e993b5b68
-    buildTimeAssetPath: Assets/Scene/36 Questions/ReflectionProbe-0.exr
-  - fileID: 35
-    classID: 91
-    packedSize: 444
-    offset: 16963168
-    sourceAssetGUID: d4a031725b6d774429e87a1b1d10e264
-    buildTimeAssetPath: Assets/753network/DiscordFeedbackForm/_resources/Discord
-      Feedback Canvas.controller
-  - fileID: 36
-    classID: 115
-    packedSize: 92
-    offset: 155712
-    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
-  - fileID: 37
-    classID: 115
-    packedSize: 96
-    offset: 155808
-    sourceAssetGUID: 4ecd63eff847044b68db9453ce219299
-    buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Plugins/VRCCore-Editor.dll
-  - fileID: 38
-    classID: 115
-    packedSize: 116
-    offset: 155904
-    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
-  - fileID: 39
-    classID: 115
-    packedSize: 100
-    offset: 156024
-    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
-  - fileID: 40
-    classID: 115
-    packedSize: 108
-    offset: 156128
-    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
-  - fileID: 41
-    classID: 115
-    packedSize: 92
-    offset: 156240
-    sourceAssetGUID: 0cd44c1031e13a943bb63640046fad76
-    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Layout/CanvasScaler.cs
-  - fileID: 42
-    classID: 115
-    packedSize: 84
-    offset: 156336
-    sourceAssetGUID: 45115577ef41a5b4ca741ed302693907
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/Udon/UdonBehaviour.cs
-  - fileID: 43
-    classID: 115
-    packedSize: 84
-    offset: 156424
-    sourceAssetGUID: 4e29b1a8efbd4b44bb3f3716e73f07ff
-    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Button.cs
-  - fileID: 44
-    classID: 115
-    packedSize: 124
-    offset: 156512
-    sourceAssetGUID: 4f231c4fb786f3946a6b90b886c48677
-    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/EventSystem/InputModules/StandaloneInputModule.cs
-  - fileID: 45
-    classID: 115
-    packedSize: 76
-    offset: 156640
-    sourceAssetGUID: 5f7201a12d95ffc409449d95f23cf332
-    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Text.cs
-  - fileID: 46
-    classID: 115
-    packedSize: 96
-    offset: 156720
-    sourceAssetGUID: 71c1514a6bd24e1e882cebbe1904ce04
-    buildTimeAssetPath: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAsset.cs
-  - fileID: 47
-    classID: 115
-    packedSize: 100
-    offset: 156816
-    sourceAssetGUID: 76c392e42b5098c458856cdf6ecaaaa1
-    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs
-  - fileID: 48
-    classID: 115
-    packedSize: 88
-    offset: 156920
-    sourceAssetGUID: 9541d86e2fd84c1d9990edf0852d74ab
-    buildTimeAssetPath: Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshPro.cs
-  - fileID: 49
-    classID: 115
-    packedSize: 124
-    offset: 157008
-    sourceAssetGUID: bf61d954ecb803046953c666facfb904
-    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/Udon/ProgramSources/SerializedUdonProgramAsset.cs
-  - fileID: 50
-    classID: 115
-    packedSize: 92
-    offset: 157136
-    sourceAssetGUID: d199490a83bb2b844b9695cbf13b01ef
-    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/InputField.cs
-  - fileID: 51
-    classID: 115
-    packedSize: 100
-    offset: 157232
-    sourceAssetGUID: dc42784cf147c0c48a680349fa168899
-    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/GraphicRaycaster.cs
-  - fileID: 52
-    classID: 115
-    packedSize: 84
-    offset: 157336
-    sourceAssetGUID: fe87c0e1cc204ed48ad3b37840f39efc
-    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Image.cs
-  - fileID: 53
-    classID: 128
-    packedSize: 352462
-    offset: 16963616
-    sourceAssetGUID: e3265ab4bf004d28a9537516768c1c75
-    buildTimeAssetPath: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
-  - fileID: 54
-    classID: 213
-    packedSize: 568
-    offset: 17316080
-    sourceAssetGUID: 0000000000000000f000000000000000
-    buildTimeAssetPath: Resources/unity_builtin_extra
-  - fileID: 55
-    classID: 213
-    packedSize: 572
-    offset: 17316648
-    sourceAssetGUID: 0000000000000000f000000000000000
-    buildTimeAssetPath: Resources/unity_builtin_extra
-  - fileID: 56
-    classID: 213
-    packedSize: 580
-    offset: 17317224
-    sourceAssetGUID: 0000000000000000f000000000000000
-    buildTimeAssetPath: Resources/unity_builtin_extra
-  - fileID: 57
-    classID: 213
-    packedSize: 1000
-    offset: 17317808
-    sourceAssetGUID: 08e3438278f26f645b75dfb507327962
-    buildTimeAssetPath: Assets/753network/DiscordFeedbackForm/_resources/discord
-      logo.png
-  - fileID: 58
-    classID: 258
-    packedSize: 40
-    offset: 17318808
-    sourceAssetGUID: 2a04028833c14364c97969a05d8ceae1
-    buildTimeAssetPath: Assets/Scene/36 Questions/LightingData.asset
-  - fileID: 59
-    classID: 114
-    packedSize: 1324
-    offset: 17318848
-    sourceAssetGUID: d06aea8731086a541a053f44523e7498
-    buildTimeAssetPath: Assets/SerializedUdonPrograms/1018c5eb970232745af6fbca304714cd.asset
-  - fileID: 60
-    classID: 114
-    packedSize: 1320
-    offset: 17320176
-    sourceAssetGUID: 606537eb90a265f4d94f48ab0ff467c6
-    buildTimeAssetPath: Assets/SerializedUdonPrograms/3729a81dafe4ccd499764b359f8538b0.asset
-  - fileID: 61
-    classID: 114
-    packedSize: 2828
-    offset: 17321496
-    sourceAssetGUID: c50e710810c249c4aa753e9d2b331414
-    buildTimeAssetPath: Assets/SerializedUdonPrograms/566cc00e27d5822449529a3785eae366.asset
-  - fileID: 62
-    classID: 114
-    packedSize: 1440
-    offset: 17324328
-    sourceAssetGUID: 4ff58c1feedacc7469cac90fe85f880a
-    buildTimeAssetPath: Assets/SerializedUdonPrograms/6a5c9652eb530604182df020bff08d15.asset
-  - fileID: 63
-    classID: 114
-    packedSize: 1440
-    offset: 17325768
-    sourceAssetGUID: 80cc84edba2f13742a1063a746ca15a5
-    buildTimeAssetPath: Assets/SerializedUdonPrograms/6b4bde52ddc9eb4449a5fa1e8b689af6.asset
-  - fileID: 64
-    classID: 114
-    packedSize: 1436
-    offset: 17327208
-    sourceAssetGUID: 594dbee153fafa34685e89fe5cd36ec0
-    buildTimeAssetPath: Assets/SerializedUdonPrograms/90d9d7979ff83ea40906b73a4894996d.asset
-  - fileID: 65
-    classID: 114
-    packedSize: 8548
-    offset: 17328648
-    sourceAssetGUID: 21c09d6dab6fd484dab9f056442f9d31
-    buildTimeAssetPath: Assets/SerializedUdonPrograms/9368c560958073c4e8b24c18d3d757de.asset
-  - fileID: 66
-    classID: 114
-    packedSize: 4104
-    offset: 17337200
-    sourceAssetGUID: cc7d5daad7395744b8fd96f5843b3283
-    buildTimeAssetPath: Assets/SerializedUdonPrograms/992b53898913ca84c9d560479df7b9ff.asset
-  - fileID: 67
-    classID: 114
-    packedSize: 1648
-    offset: 17341304
-    sourceAssetGUID: e4aa66d63f589b441828d00721b75bb2
-    buildTimeAssetPath: Assets/SerializedUdonPrograms/c8df303ceb45ae84f85a11591f741734.asset
-  - fileID: 68
-    classID: 114
-    packedSize: 1156
-    offset: 17342952
-    sourceAssetGUID: 2e498d1c8094910479dc3e1b768306a4
-    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
-      SDF - Fallback.asset
-  - fileID: 69
-    classID: 114
-    packedSize: 28764
-    offset: 17344112
-    sourceAssetGUID: 8f586378b4e144a9851e7b34d9b748ee
-    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
-      SDF.asset
---- !u!1521398425 &-838683538559029679
-VideoBuildInfo:
-  m_VideoClipCount: 0
-  m_IsVideoModuleDisabled: 0
 --- !u!1125 &1
 BuildReport:
   m_ObjectHideFlags: 0
@@ -459,7 +1611,7 @@ BuildReport:
   m_Summary:
     buildStartTime:
       serializedVersion: 2
-      ticks: 638378909960653454
+      ticks: 638447968095383031
     buildGUID: 00000000000000000000000000000000
     platformName: Win64
     platformGroupName: Standalone
@@ -467,11 +1619,11 @@ BuildReport:
     options: 0
     assetBundleOptions: 32
     outputPath: C:/Users/Mettcon/AppData/Local/Temp/DefaultCompany/36 Questions
-    crc: 3003799850
-    totalSize: 2623295
-    totalTimeTicks: 52379776
+    crc: 1119599884
+    totalSize: 75376403
+    totalTimeTicks: 829872897
     totalErrors: 0
-    totalWarnings: 0
+    totalWarnings: 2
     buildType: 2
     buildResult: 1
   m_Files:
@@ -479,128 +1631,131 @@ BuildReport:
       questions.vrcw/BuildPlayer-36 Questions
     role: Scene
     id: 0
-    totalSize: 181900
+    totalSize: 1231432
   - path: C:/Users/Mettcon/AppData/Local/VRChatProjects/36 Questions/scene-standalonewindows64-36
       questions.vrcw/BuildPlayer-36 Questions.sharedAssets
     role: SharedAssets
     id: 1
-    totalSize: 17372876
+    totalSize: 161823208
   - path: C:/Users/Mettcon/AppData/Local/VRChatProjects/36 Questions/scene-standalonewindows64-36
       questions.vrcw
     role: AssetBundle
     id: 2
-    totalSize: 2622070
+    totalSize: 75371259
+  - path: C:/Users/Mettcon/AppData/Local/VRChatProjects/36 Questions/scene-standalonewindows64-36
+      questions.vrcw.manifest
+    role: AssetBundleTextManifest
+    id: 3
+    totalSize: 3919
   - path: C:/Users/Mettcon/AppData/Local/VRChatProjects/36 Questions/36 Questions/CAB-25c93ffae45412888480bc73e10e120c
     role: ResourcesFile
-    id: 3
+    id: 4
     totalSize: 4248
   - path: C:/Users/Mettcon/AppData/Local/VRChatProjects/36 Questions/36 Questions
     role: ManifestAssetBundle
-    id: 4
-    totalSize: 1055
+    id: 5
+    totalSize: 1054
   - path: C:/Users/Mettcon/AppData/Local/VRChatProjects/36 Questions/36 Questions.manifest
     role: AssetBundleTextManifest
-    id: 5
-    totalSize: 170
+    id: 6
+    totalSize: 171
   m_BuildSteps:
   - stepName: Build Asset Bundles
-    durationTicks: 52379776
+    durationTicks: 829872897
     depth: 0
     messages: []
   - stepName: Calculate asset bundles to be built
-    durationTicks: 22528
+    durationTicks: 2104605
     depth: 1
     messages: []
   - stepName: Prebuild Cleanup and Recompile
-    durationTicks: 6306745
+    durationTicks: 100970107
     depth: 1
     messages: []
   - stepName: Compile scripts
-    durationTicks: 6136625
+    durationTicks: 100216735
     depth: 2
     messages: []
   - stepName: Generate and validate platform script types
-    durationTicks: 119750
+    durationTicks: 659775
     depth: 2
     messages: []
   - stepName: Build Scene AssetBundle(s)
-    durationTicks: 36479450
+    durationTicks: 688601098
     depth: 1
     messages: []
   - stepName: 'Build bundle: scene-standalonewindows64-36 questions.vrcw'
-    durationTicks: 34887680
+    durationTicks: 685386772
     depth: 2
     messages: []
   - stepName: Verify Build setup
-    durationTicks: 235377
+    durationTicks: 521339
     depth: 3
     messages: []
   - stepName: Prepare assets for target platform
-    durationTicks: 430543
+    durationTicks: 752842
     depth: 3
     messages: []
   - stepName: Prepare splash screen
-    durationTicks: 4755
+    durationTicks: 516138
     depth: 3
     messages:
     - type: 3
       content: Including Unity Splash Screen logo because 'Show Unity Logo' is enabled.
   - stepName: Building scenes
-    durationTicks: 6689504
+    durationTicks: 24751685
     depth: 3
     messages: []
   - stepName: Building scene Assets/Scene/36 Questions.unity
-    durationTicks: 6689417
+    durationTicks: 24750912
     depth: 4
-    messages: []
+    messages:
+    - type: 2
+      content: Storage for variable 'locked' of type 'UnityEngine.Sprite' did not
+        match, updated storage type
+    - type: 2
+      content: Storage for variable 'unlocked' of type 'UnityEngine.Sprite' did not
+        match, updated storage type
   - stepName: Writing asset files
-    durationTicks: 842181
+    durationTicks: 383462945
     depth: 3
     messages: []
   - stepName: Packaging assets - archive:/BuildPlayer-36 Questions/BuildPlayer-36
       Questions.sharedAssets
-    durationTicks: 805651
+    durationTicks: 383366422
     depth: 4
     messages: []
   - stepName: Creating compressed player package
-    durationTicks: 22218815
+    durationTicks: 258903606
     depth: 3
     messages: []
   - stepName: Write data build dirty tracking information
-    durationTicks: 80354
+    durationTicks: 883255
     depth: 3
     messages: []
   - stepName: Postprocess built player
-    durationTicks: 160034
+    durationTicks: 207018
     depth: 3
     messages: []
   m_Appendices:
-  - {fileID: 2385157716950049460}
-  - {fileID: -3175790940818038440}
-  - {fileID: 6544416603229417156}
-  - {fileID: 922623553608981308}
-  - {fileID: -838683538559029679}
-  - {fileID: -8011249447463388359}
---- !u!641289076 &922623553608981308
+  - {fileID: -6617988543645056803}
+  - {fileID: -5640881832333698670}
+  - {fileID: 3717547382983482700}
+  - {fileID: 1661135733271013038}
+  - {fileID: -6165986575963842057}
+  - {fileID: -3173071076318931257}
+--- !u!641289076 &1661135733271013038
 AudioBuildInfo:
   m_IsAudioDisabled: 0
   m_AudioClipCount: 0
   m_AudioMixerCount: 0
---- !u!668709126 &2385157716950049460
-BuiltAssetBundleInfoSet:
-  bundleInfos:
-  - bundleName: scene-standalonewindows64-36 questions.vrcw
-    bundleArchiveFile: 2
-    packagedFileIndices: 0000000001000000
-  - bundleName: 36 Questions
-    bundleArchiveFile: 4
-    packagedFileIndices: 03000000
---- !u!382020655 &6544416603229417156
+--- !u!382020655 &3717547382983482700
 PluginBuildInfo:
   m_RuntimePlugins:
   - VRC.Udon.VM
   - VRC.SDK3.Dynamics.PhysBone
   - VRC.Udon.Security
+  - VRCEconomy
   - libvrc_image_loader
   - YamlDotNet
   - VRCSDK3
@@ -646,6 +1801,7 @@ PluginBuildInfo:
   - Microsoft.CodeAnalysis.CSharp
   - VRC.Udon.VRCTypeResolverModules
   - Unity.Plastic.Antlr3.Runtime
+  - VRCEconomy-Editor
   - ICSharpCode.SharpZipLib
   - zlib64Plastic
   - AppleEventIntegration

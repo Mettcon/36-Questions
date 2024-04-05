@@ -1,4 +1,6 @@
 ﻿
+using System;
+using System.Globalization;
 using UdonSharp;
 using UnityEngine;
 using VRC.SDKBase;
@@ -12,7 +14,6 @@ public class SetEnglish : UdonSharpBehaviour
     public override void Interact()
     {
         base.Interact();
-        Questionhandler.Language = "eng";
-        Questionhandler.SetQuestion();
+        Questionhandler.Language = "en";
     }
 }

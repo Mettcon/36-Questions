@@ -12,5 +12,6 @@ public class NextQuestion : UdonSharpBehaviour
     {
         base.Interact();
         Questions.NextQuestion();
+        Debug.Log("NextQuestion Button clicked");
     }
 }
